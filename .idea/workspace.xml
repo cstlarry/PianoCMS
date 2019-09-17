@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PianoCMS" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9dbe89f1-8243-43f9-bcb0-85bac159031f" name="Default Changelist" comment="Second commit">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/PianoCMS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_39_bin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Balance Due Report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBackReport.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer Status Report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListCustomersReport.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PianoCMS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QTaxReport.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TaxRateListReport.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fileName" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/PianoCMS/Balance Due Report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/PianoCMS/CallBackReport.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/PianoCMS/Customer Status Report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/PianoCMS/ListCustomersReport.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/PianoCMS/PianoCMS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/PianoCMS/PianoCMS.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/PianoCMS/PianoCMS.jnlp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/PianoCMS/TaxRateListReport.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/PianoCMS/mysql-connector-java-5.1.39-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/BalanceDueReport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/CallBackReport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/CustomerController$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/CustomerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/CustomerDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/DBUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/DetailsController$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/DetailsController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/FXTemplate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/ListCustomersReport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/ProjectUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/QuarterlyTaxReport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/RootLayoutController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/Service.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/ServiceDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/StatusReport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/TaxRate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/TaxRateController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/TaxRateDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/TaxRateListReport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/customer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/view/CustView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/view/RootLayout.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/view/ServiceView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/view/TaxRateView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BalanceDueReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CallBackReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DBUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DetailsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FXTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListCustomersReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuarterlyTaxReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RootLayoutController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ServiceDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatusReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaxRate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaxRateController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaxRateDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaxRateListReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpdateStatusReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/customer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/CustView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/RootLayout.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/ServiceView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/TaxRateView.fxml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PianoCMS" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+        <option value="ProjectTemplate" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>callDate</find>
+      <find>DateTimeFormatter</find>
+      <find>&quot;,&quot;</find>
+      <find>public</find>
+      <find>null</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>\n</replace>
+      <replace>private</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1Pg33UKrff5x0Q1Bljn85gc6PcF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552066990446" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Code\PianoCMS\src\view" />
+      <recent name="C:\Code\PianoCMS\res" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ListCustomersReport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListCustomersReport" />
+      <module name="PianoCMS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk1.8.0_201" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="PianoCMS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatusReport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StatusReport" />
+      <module name="PianoCMS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateStatusReport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UpdateStatusReport" />
+      <module name="PianoCMS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PianoCMS.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/PianoCMS/PianoCMS.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ListCustomersReport" />
+      <item itemvalue="Application.StatusReport" />
+      <item itemvalue="Application.UpdateStatusReport" />
+      <item itemvalue="JAR Application.PianoCMS.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ListCustomersReport" />
+        <item itemvalue="Application.UpdateStatusReport" />
+        <item itemvalue="Application.StatusReport" />
+        <item itemvalue="JAR Application.PianoCMS.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dbe89f1-8243-43f9-bcb0-85bac159031f" name="Default Changelist" comment="" />
+      <created>1533768470488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533768470488</updated>
+      <workItem from="1533768471956" duration="1046000" />
+      <workItem from="1533769662209" duration="294000" />
+      <workItem from="1533784714780" duration="4189000" />
+      <workItem from="1533838164969" duration="4206000" />
+      <workItem from="1533850147020" duration="5809000" />
+      <workItem from="1533858018643" duration="17000" />
+      <workItem from="1533872131643" duration="7460000" />
+      <workItem from="1533913941848" duration="1015000" />
+      <workItem from="1533920501225" duration="4203000" />
+      <workItem from="1533927894173" duration="927000" />
+      <workItem from="1533930440500" duration="2361000" />
+      <workItem from="1533937369810" duration="6592000" />
+      <workItem from="1534051034720" duration="4084000" />
+      <workItem from="1534104560291" duration="4229000" />
+      <workItem from="1534130804413" duration="2053000" />
+      <workItem from="1534132928968" duration="81000" />
+      <workItem from="1534297848841" duration="76000" />
+      <workItem from="1534449464117" duration="634000" />
+      <workItem from="1534463149634" duration="2069000" />
+      <workItem from="1534482679021" duration="4824000" />
+      <workItem from="1534535453040" duration="1409000" />
+      <workItem from="1534539094756" duration="836000" />
+      <workItem from="1534547098576" duration="13013000" />
+      <workItem from="1534618978056" duration="11681000" />
+      <workItem from="1534656048366" duration="3487000" />
+      <workItem from="1534713697635" duration="3875000" />
+      <workItem from="1534717890031" duration="3126000" />
+      <workItem from="1534724341928" duration="6394000" />
+      <workItem from="1534732362357" duration="1826000" />
+      <workItem from="1534734326006" duration="434000" />
+      <workItem from="1534782395774" duration="92000" />
+      <workItem from="1534788397414" duration="297000" />
+      <workItem from="1534791624648" duration="3927000" />
+      <workItem from="1534833403311" duration="1083000" />
+      <workItem from="1534888790452" duration="1477000" />
+      <workItem from="1534900933340" duration="11275000" />
+      <workItem from="1534954358645" duration="23000" />
+      <workItem from="1534954507689" duration="253000" />
+      <workItem from="1534966054015" duration="107000" />
+      <workItem from="1535089282086" duration="44000" />
+      <workItem from="1535089718794" duration="104000" />
+      <workItem from="1535091090114" duration="2750000" />
+      <workItem from="1535125804858" duration="2354000" />
+      <workItem from="1535128209923" duration="2506000" />
+      <workItem from="1535133645753" duration="3279000" />
+      <workItem from="1535137011504" duration="2292000" />
+      <workItem from="1535140086344" duration="335000" />
+      <workItem from="1535156655785" duration="176000" />
+      <workItem from="1535158557291" duration="4501000" />
+      <workItem from="1535249191346" duration="2669000" />
+      <workItem from="1535262766843" duration="5562000" />
+      <workItem from="1535298039687" duration="1016000" />
+      <workItem from="1535313235841" duration="401000" />
+      <workItem from="1535332444691" duration="9000" />
+      <workItem from="1535506880073" duration="650000" />
+      <workItem from="1535579931623" duration="4173000" />
+      <workItem from="1535644459917" duration="5337000" />
+      <workItem from="1535652135422" duration="546000" />
+      <workItem from="1535695871637" duration="464000" />
+      <workItem from="1535756971762" duration="131000" />
+      <workItem from="1535770668631" duration="336000" />
+      <workItem from="1535771063290" duration="228000" />
+      <workItem from="1535831359358" duration="11156000" />
+      <workItem from="1536278938866" duration="59000" />
+      <workItem from="1536279133956" duration="107000" />
+      <workItem from="1536617578917" duration="25000" />
+      <workItem from="1537894943351" duration="89000" />
+      <workItem from="1537895169672" duration="77000" />
+      <workItem from="1538674878326" duration="1353000" />
+      <workItem from="1538714153225" duration="710000" />
+      <workItem from="1538762754781" duration="1221000" />
+      <workItem from="1538777233303" duration="1302000" />
+      <workItem from="1538789613840" duration="4649000" />
+      <workItem from="1538794676551" duration="3099000" />
+      <workItem from="1538808043290" duration="476000" />
+      <workItem from="1538851542997" duration="9112000" />
+      <workItem from="1538878782370" duration="3495000" />
+      <workItem from="1538955640807" duration="4144000" />
+      <workItem from="1538965364634" duration="2143000" />
+      <workItem from="1539067779685" duration="175000" />
+      <workItem from="1539140821782" duration="2246000" />
+      <workItem from="1539192347951" duration="17000" />
+      <workItem from="1539366612381" duration="2162000" />
+      <workItem from="1539451744505" duration="3204000" />
+      <workItem from="1539466833228" duration="1954000" />
+      <workItem from="1539573591072" duration="829000" />
+      <workItem from="1539617563216" duration="333000" />
+      <workItem from="1539885834499" duration="44000" />
+      <workItem from="1540355520723" duration="70000" />
+      <workItem from="1540355736332" duration="57000" />
+      <workItem from="1540505046061" duration="4276000" />
+      <workItem from="1540787001761" duration="4120000" />
+      <workItem from="1540953083850" duration="6673000" />
+      <workItem from="1541023052154" duration="644000" />
+      <workItem from="1541023755825" duration="75000" />
+      <workItem from="1541023877759" duration="42000" />
+      <workItem from="1541024086614" duration="20000" />
+      <workItem from="1541029848977" duration="19000" />
+      <workItem from="1541126644797" duration="3844000" />
+      <workItem from="1541214140359" duration="1814000" />
+      <workItem from="1541694403815" duration="538000" />
+      <workItem from="1541694993286" duration="304000" />
+      <workItem from="1542011800853" duration="980000" />
+      <workItem from="1542012854323" duration="11000" />
+      <workItem from="1542905506148" duration="102000" />
+      <workItem from="1542905792394" duration="229000" />
+      <workItem from="1542906483558" duration="111000" />
+      <workItem from="1542906656797" duration="3163000" />
+      <workItem from="1542936503483" duration="23000" />
+      <workItem from="1543087302786" duration="2736000" />
+      <workItem from="1543646210380" duration="599000" />
+      <workItem from="1543795319639" duration="1408000" />
+      <workItem from="1547749660729" duration="232000" />
+      <workItem from="1547750569832" duration="395000" />
+      <workItem from="1547775280747" duration="1692000" />
+      <workItem from="1547925238554" duration="828000" />
+      <workItem from="1547926373712" duration="3877000" />
+      <workItem from="1547938105944" duration="599000" />
+      <workItem from="1548985133587" duration="102000" />
+      <workItem from="1548985393826" duration="130000" />
+      <workItem from="1550878811900" duration="49000" />
+      <workItem from="1550878912695" duration="23000" />
+      <workItem from="1551387891612" duration="159000" />
+      <workItem from="1551388366048" duration="140000" />
+      <workItem from="1551388550161" duration="229000" />
+      <workItem from="1551395791266" duration="102000" />
+      <workItem from="1551499488580" duration="27000" />
+      <workItem from="1552064208418" duration="2719000" />
+      <workItem from="1552152680338" duration="4000" />
+      <workItem from="1552612035903" duration="2204000" />
+      <workItem from="1552786932848" duration="2890000" />
+      <workItem from="1552869911439" duration="81000" />
+      <workItem from="1552882715624" duration="58000" />
+      <workItem from="1553174064930" duration="61000" />
+      <workItem from="1553174158517" duration="5000" />
+      <workItem from="1553743980248" duration="13000" />
+      <workItem from="1566281715559" duration="161000" />
+      <workItem from="1566491216100" duration="1565000" />
+      <workItem from="1566493434643" duration="110000" />
+      <workItem from="1566493582931" duration="5524000" />
+      <workItem from="1566499179928" duration="132000" />
+      <workItem from="1566499457446" duration="499000" />
+      <workItem from="1566499987737" duration="1938000" />
+      <workItem from="1566502041943" duration="907000" />
+      <workItem from="1566503407531" duration="127000" />
+      <workItem from="1566519564553" duration="131000" />
+      <workItem from="1566520187786" duration="95000" />
+      <workItem from="1566520306117" duration="273000" />
+      <workItem from="1566520597375" duration="74000" />
+      <workItem from="1566693517195" duration="353000" />
+      <workItem from="1566775988777" duration="1445000" />
+      <workItem from="1566777574833" duration="6355000" />
+      <workItem from="1566849467037" duration="609000" />
+      <workItem from="1566955443225" duration="2840000" />
+      <workItem from="1566977520064" duration="1025000" />
+      <workItem from="1567015412585" duration="2243000" />
+      <workItem from="1567020246054" duration="5775000" />
+      <workItem from="1567116246208" duration="2365000" />
+      <workItem from="1567187878047" duration="57000" />
+      <workItem from="1567218847438" duration="1483000" />
+      <workItem from="1567221890846" duration="40000" />
+      <workItem from="1567283694092" duration="664000" />
+      <workItem from="1567284923833" duration="63000" />
+      <workItem from="1567389881145" duration="9000" />
+      <workItem from="1567636765420" duration="1339000" />
+      <workItem from="1567728709806" duration="19000" />
+      <workItem from="1568131960847" duration="245000" />
+      <workItem from="1568137745283" duration="1111000" />
+      <workItem from="1568265920195" duration="942000" />
+      <workItem from="1568266961848" duration="635000" />
+      <workItem from="1568268117593" duration="19000" />
+      <workItem from="1568304624071" duration="4038000" />
+      <workItem from="1568312269400" duration="1780000" />
+      <workItem from="1568324907991" duration="898000" />
+      <workItem from="1568353582129" duration="146000" />
+      <workItem from="1568398950541" duration="5854000" />
+      <workItem from="1568423288750" duration="2204000" />
+      <workItem from="1568495799364" duration="47000" />
+      <workItem from="1568497525238" duration="9516000" />
+      <workItem from="1568511151464" duration="64000" />
+      <workItem from="1568529037277" duration="471000" />
+      <workItem from="1568587288820" duration="4014000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1567637732433</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567637732433</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>

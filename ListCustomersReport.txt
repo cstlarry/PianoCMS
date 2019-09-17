@@ -1,0 +1,947 @@
+ID   Name                          City                Phone Nbr      Make                Size      
+
+459  Abbott, Michael & Karin (A)   Wenatchee           662-1500       Kawai               Console   
+679  Abendblume,  (A)              Leavenworth         509-548-4059   Sargent             Grand     
+897  Abundant Life Seventh Day Adv Wenatchee           208-401-6370   Yamaha              Grand     
+491  Acheson, Jay & Shirley (A)    Leavenworth         509-548-6070   Monarch             Upright   
+660  Adams, Amy (A)                Quincy              509-431-1322   Kimball             Console   
+820  Adams, Charlene (A)           East Wenatchee      509-264-3898   Kimball             Spinet    
+500  Adams, Darlene (A)            Quincy              509-787-3372   Wheelock / Baldwin  Upright / Spinet
+452  Adams, Dean & Trina (A)       Wenatchee           509-669-1688   Steinway            Grand     
+371  Adams, Jim & Melissa (A)      Snoqualmie          509-237-0828   K & C               Grand     
+1001 Adams, Laarry (A)             Wenatchee           999-999-9999                                 
+331  Ager, Phil & Pam (A)          Lynden              509-429-0018   Baldwin             Grand     
+767  Aguilar, Doretha (A)          Wenatchee           509-741-0309   Wurlitzer           Spinet    
+351  Aldrich, Lucy (A)             Leavenworth         509-548-5627   Baldwin             Studio    
+120  Allan, Lesley (A)             Wenatchee           509-679-7426   Steinway            Grand     
+276  Allison, Gary & Gaye (A)      Moses Lake          509-750-7396   Bergmann            Console   
+492  Allman, Margaret (A)          Leavenworth         509-911-1119   Winter & Co.        Spinet    
+174  Anantatmula, Melinda (A)      East Wenatchee      509-423-5333   Sherman Clay        Grand     
+882  Anderson, Carolyn (A)         Wenatchee           509-670-3568   Walworth            Upright   
+891  Anderson, Sherri / Todd Churc Peshastin           509-860-5661   Kimball             Upright   
+590  Anderson, Steve (A)           Wenatchee           509-658-2222   Yamaha / Kawai      Grand / Grand
+498  Andrews, Doug & Patty (A)     East Wenatchee      509-860-8840   Petrof              Grand     
+419  Aponik, Bridget (A)           Leavenworth         509-679-1751   Steinway            Console   
+71   Apostolic Lutheran Church, No Moses Lake          509-431-8797   Kranich & Bach      Grand     
+111  Appel, Daniel & Khiree (A)    Wenatchee           509-393-5707   Yamaha              Upright   
+873  Apple Annie Antique, Tricia O Cashmere            509-679-2610   Darston             Upright   
+847  Araiza, Flor (A)              Moses Lake          509-761-1343   Wurlitzer           Console   
+859  Armstrong, Ann (A)            Leavenworth         509-630-2194   Bechstein/Winter    Grand / Spinet
+527  Arnall, Christina (A)         Quincy              509-289-9120   Wurlitzer           Spinet    
+903  Arriola, Robert & Kathryn (A) Ephrata             509-750-3836   Story & Clark       Console   
+576  Atkins, Shane (A)             East Wenatchee      509-589-0574   Everett?            Console   
+943  Avamere, Lily or Jessica (A)  Wenatchee           509-662-8646   Hobart Cable        Console   
+651  Avey, Ann (A)                 Wenatchee           509-860-0717   Wurlitzer           Spinet    
+497  Avey, Christy (A)             Wenatchee           206-931-1889   ?                   Spinet    
+545  Avritt, Max & Sally (A)       Chelan              425-367-2440   Baldwin             Spinet    
+399  Azevedo, Guimar (A)           Othello             509-488-4188   Yamaha              Upright   
+348  Baerlocher, Bruce & Kyra (A)  Moses Lake          509-765-1927   Baldwin             Spinet    
+37   Bailey, Janelle (A)           Wenatchee           509-679-2689   Baldwin /           Spinet    
+52   Bain, Staci (A)               Leavenworth         509-669-0972   Young Chang         Grand     
+135  Bair, Brent & Rose (A)        Moses Lake          509-760-4107   Yamaha / Howard     Upright / Upright
+704  Baker, Duane & Dixie (A)      Chelan              509-682-8277   Bush & Lane         Upright   
+616  Baker, Edwin & Elouise (A)    Moses Lake          760-638-3073   AutoPiano           Upright   
+839  Baker, Linda (A)              Wenatchee           206-605-2324   Steinert?           Upright   
+765  Ballenger, Susan (A)          Wenatchee           509-664-8955   Yamaha              Console   
+309  Bangsund, John & Kathy (A)    Leavenworth         509-470-6147   Gulbransen          Spinet    
+535  Banning, Dick & Anita (A)     East Wenatchee      509-884-7989   Wurlitzer           Spinet    
+509  Baptist Church, Junior (A)    East Wenatchee      509-884-6813   Sohmer              Grand     
+199  Barber, Bill & Rhoda (A)      Ellensburg          509-925-1980   Yamaha              Grand     
+482  Barkley, Jean (A)             Peshastin           509-687-3502   Starck              Console   
+815  Baroness Cellars, Danielle (A Leavenworth         425-422-7872   Milton              Grand     
+302  Barrera, Jesse (A)            East Wenatchee      509-884-8525   Samick              Console   
+117  Barrows, Jovi (A)             Quincy              509-415-5733   Lester              Studio    
+192  Bassett, Jerry & Rebecca (A)  Wenatchee           509-293-1857   Grotrian            Grand     
+986  Batchelor, Shirley (A)        Peshastin           509-687-3207   Currier             Spinet    
+336  Beaver, David & Amy (A)       Moses Lake          509-707-0051   Baldwin             Spinet in Console case
+635  Beckley, Mary (A)             Cashmere            360-888-5400   Hoffman             ?         
+490  Bedard, Mike & Lisa (A)       Leavenworth         206-234-3294   Farrand             Upright   
+994  Bendowsky, Nelda (A)          Peshastin           509-662-3783   Kranich & Bach      Upright   
+142  Bennion, Roy & Molly (A)      Seattle             206-325-6868   Steinway / EllingtonGrand / Upright
+560  Bennion, Ty & Andrea (A)      Seattle             206-931-4579   Cable               Console   
+567  Berean Baptist, Wendy/Pat (A) Chelan              509-682-5111   Farrand / Kincaid   Upright / Spinet
+591  Bergeson, Chad & Marnie (A)   Royal City          509-989-1801   Steinway            Grand     
+205  Bergman, Marcia (A)           East Wenatchee      509-630-0132   Gulbransen          Spinet    
+480  Bergstrom, Alison (A)         Leavenworth         206-276-5834   Whitney             Spinet    
+204  Bertrand, Theresa (A)         Moses Lake          701-818-8647   Young Chang / Yamaha / YamahaGrand / Studio / Console
+949  Bessire, Scott & Sandy (A)    Okanogan            509-449-5315   Baldwin             Grand     
+518  Bethlehem Chapel Assembly of  Ephrata             509-754-3581   Sojin               Grand     
+44   Betzing, Pete & Lindsey (A)   Moses Lake          509-771-0199   Yamaha              Console   
+80   Bible Missionary Church, Bett Quincy              509-856-4407   Young Chang / WurlitzerConsole / Spinet
+151  Bickford, Wayne & Diana (A)   Orondo              509-784-2140   Palmer              Upright   
+984  Bierlink, Phyllis (A)         Quincy              509-398-3256   Baldwin / Kimball   Spinet / Spinet
+86   Big Bend Com. College, Karen  Moses Lake          509-793-2026   Baldwin             Grand     
+658  Bishop, Cheryl (A)            East Wenatchee      509-679-7008   Yamaha              Studio    
+709  Bishop, Glenda (A)            Quincy              509-237-3069   Hobart M. Cable     Console   
+77   Bixby, Richard & Jane (A)     Moses Lake          425-445-9858   Gerhard Heintzmann  Upright   
+427  Black, Marti (A)              Cashmere            509-699-8899   Hallet & Davis      Upright   
+923  Blair, Lisa (A)               Wenatchee           509-293-2782   Sojin               Grand     
+288  Blanksma, Kristine (A)        Wenatchee           509-670-4244                                 
+435  Bohn, Tudi (A)                Mansfield           509-679-2601   ?                   Upright   
+945  Bomgren, Clark (A)            Chelan              425-785-2731   Marshall & Wendell  Grand     
+800  Bonato, Jennifer (A)          Moses Lake          509-765-5372   Baldwin/Baldwin     Spinet / Studio
+711  Bond, Kmbris (A)              East Wenatchee      509-953-4442   Petrof              Grand     
+592  Bonnett, Colin (A)            Cashmere            406-595-2654   Samick              Console   
+194  Borden, Shiela (A)            Wenatchee           702-580-1885   Steinway            Grand     
+938  Bordon, Roger & Laura (A)     Wenatchee           509-707-8362   Yamaha              Grand     
+958  Bowe, Brian & Sara (A)        East Wenatchee      663-8373                                     
+470  Boyd, Jennifer (A)            Quincy              509-431-2451   Kawai               Upright   
+582  Bozin, Alex (A)               Soap Lake           509-431-7216   Winter              Spinet    
+725  Brandt, Mark & Alice (A)      Seattle             206-455-5243   Yamaha              Grand     
+730  Bratrude, Kate (A)            Wenatchee           509-662-0358   Yamaha              Grand     
+893  Bressler, Marv / Brian (A)    Peshastin           425-789-6059   Kawai                         
+989  Brethren Baptist, Debbie (A)  Wenatchee           509-662-3681   Mason & Hamlin      Grand     
+218  Bridges, Cassandra (A)        Wenatchee           509-663-2276   Yamaha / Kohler & Campbell / Sherman ClayUpright / Grand / Upright
+690  Briggs, Jack & Carol (A)      Seattle             206-322-8091   Steinway /Steinway  Grand     
+650  Brisbine, Ted & Vicki (A)     Wenatchee           509-663-2696   Samick              Grand     
+788  Britton, Shirley (A)          Soap Lake           509-246-3600   Lincoln             Spinet    
+385  Bromberg, Matt & Alison (A)   Wenatchee           978-835-8862   Kawai               Upright   
+219  Bromily, Kevin & Lana (A)     Wenatchee           509-630-8633   Samick              Upright   
+654  Brons Aasen, Heide (A)        Cashmere            509-860-7835   Baldwin             Spinet    
+378  Brown, Ann (A)                Wenatchee           509-662-5248   Gulbransen          Upright   
+777  Brown, Dee (A)                Wenatchee           509-630-8309   Kimball             Studio    
+950  Brown, Heide (A)              Orondo              509-421-2388   Henry F. Miller     Upright   
+347  Brown, Jim & Bev (A)          Wenatchee           509-664-8921   Melodiegrand        Console   
+444  Brown, Matt & Julie (A)       Chelan              509-682-0187   Bond                Grand     
+384  Brown, Muriel (A)             Ellensburg          509-925-2954   Baldwin             Studio    
+98   Brown, Tracy (A)              Ephrata             509-750-6280   Yamaha              Spinet    
+228  Brush, Donovan (A)            Ephrata             206-369-9001   Schafer & Sons      Grand     
+124  Bryant, Caleb & Jonette (A)   Puyallup            503-442-6203   Kimball             Console   
+271  Brzezny, Wendy (A)            Ephrata             509-760-1097   Petrof              6.+       
+101  Buick, Carl & Penny (A)       Wenatchee           509-679-7492   Yamaha              Studio    
+175  Bullitt, Harriet (A)          Leavenworth         509-433-1401   Mason & Hamlin      Grand     
+776  Burlando, Cinda (A)           Peshastin           509-670-9810   Wurlitzer           Console   
+772  Burns, Clyde & Judy (A)       Moses Lake          509-765-8424   Baldwin             Spinet    
+35   Burns, Kendra (A)             East Wenatchee      509-264-9676   Kawai /             Upright / 
+823  Burns, Tom & Suzanne (A)      East Wenatchee      509-987-6542   Steck               Grand     
+916  Burrows, Dian (A)             Winthrop            253-514-2696   Emerson             Grand     
+643  Burshek, John & Kim (A)       Leavenworth         509-421-2664   ?                   Upright   
+487  Bush, Mandi (A)               Wenatchee           509-663-3279   H.M. Cable          Upright   
+554  Butruille, Susan (A)          Leavenworth         509-548-0238   Samick              Console   
+803  Bywater, Nancy (A)            Leavenworth         509-548-4630   Kohler & Campbell   Upright   
+307  Cadigan, John & Marie (A)     Cashmere            509-782-4314   Samick              Grand     
+365  Calbick, Don (A)              Moses Lake          509-765-5474   Kawai               Console   
+594  Callaway, Jane (A)            Mattawa             509-932-4715                                 
+394  Calvary Chapel, Angie Gunders East Wenatchee      509-888-7771   Kawai /             Grand     
+781  Calvary Crossroads Church,  ( Wenatchee           509-888-2767   Yamaha              Grand     
+954  Cambridge, The (A)            Quincy              509-797-9555   Kawai               Grand     
+868  Campbell, Alex (A)            Cashmere            509-679-9155   Smith Barnes        Upright   
+396  Campbell, Kristi (A)          Wenatchee           509-885-8810   Samick              Grand     
+906  Campbell, Scott & Colleen (A) Peshastin           206-909-2981   Steinway            Grand     
+133  Canliss, Julie (A)            Wenatchee           206-953-4128   Yamaha              Studio    
+589  Canyon Creek Condo Clubhouse, East Wenatchee      509-293-2264   Wurlitzer           Grand     
+270  Carlson, Rhonda (A)           Leavenworth         206-214-8175   Yamaha              Spinet    
+551  Carlton, Carole (A)           Quincy              509-679-4560   Yamaha              Studio    
+812  Carlton, Matt (A)             Chelan              360-393-7053   Wing & Son / Yamaha Upright / Grand
+819  Carr, Mary (A)                East Wenatchee      509-888-7290   Baldwin             Spinet    
+874  Carter, Debbie (A)            Cashmere            509-699-0347   Rohlfing            Upright   
+122  Cascade High School, James Mi Leavenworth         509-548-5277   Yamaha / Yamaha / WurlitzerGrand / Studio / Studio
+853  Cascade School Dist.,  (A)    Leavenworth         509-548-5885                                 
+23   Cascade Unitarian,  (A)       East Wenatchee      509-886-4023   Steinway / Samick /           
+187  Cashmere High School, Kathy ( Cashmere            509-782-2914   Yamaha / Young ChangStudio / Studio
+188  Cashmere Middle School,  (A)  Cashmere            509-782-2001   Kawai / ?           Upright / Console
+846  Cashmere School Dist.,  (A)   Cashmere            509-782-3355                                 
+38   Cassiano, Gary (A)            Wenatchee           509-421-2871   Ivers & Pond        Console   
+403  Castrodale, Bob & Katherine ( Chelan              509-682-1194   Yamaha / Chickering Grand / Grand
+195  Cawdery, Gerald (A)           Wenatchee           509-662-5020   Baldwin             Grand     
+303  Celebration Lutheran, Darcy ( East Wenatchee      509-884-3817   Yamaha              Grand     
+622  Cenotto, Shawna (A)           Wenatchee           509-293-2938   Jacob Doll          Upright   
+155  Cenotto, Shizuko (A)          East Wenatchee      509-421-3752   Baldwin / Yamaha    Console / Upright
+785  Chalmers, Kent (A)            Cashmere            509-255-8131   Starr               Grand     
+61   Chamber of Commerce, Roy (A)  Chelan              509-682-3503   Kimball             Grand     
+609  Chamberlain, Chris & Anne (A) Ephrata             398-0953       Kohler & Campbell   Upright   
+437  Chambers, Mike & Melanie (A)  Entiat              509-784-1164   Baldwin / Baldwin   Spinet / Spinet
+139  Chandler, Laury (A)           Moses Lake          509-989-2631   Yamaha              Grand     
+325  Chapman, Larry & Sylvia (A)   Wenatchee           509-630-3941   Sohmer              Console   
+605  Chen, Jing (A)                Wenatchee           812-391-5258   Kawai               Grand     
+297  Child, Janice (A)             Quincy              509-787-3052   Kawai               Studio    
+759  Christ Center, Carmen Gamble  Cashmere            509-782-2825   Kawai               Grand     
+43   Christensen, Jill (A)         Royal City          509-750-5799   Wurlitzer                     
+42   Christensen, Kim (A)          Royal City          509-989-1890   Yamaha              Console   
+220  Christian, Michael & Kathrine Moses Lake          509-766-2828   Wurlitzer           Spinet    
+988  Christian Missionary Alliance Moses Lake          509-765-6656   Kawai               Grand     
+472  Christian Reformed Church, Pa Quincy              509-787-2641   Yamaha / Kohler & Campbell / YamahaGrand / Console / Studio
+743  Chumstick Grange, Betina Kezi Leavenworth         509-548-7520   P.S. Wick           Upright   
+338  Church of God F/o/A, Debbie D Cashmere            509-782-4178   Yamaha / Kranich & BachGrand     
+794  Church of the Nazarene, John  Quincy              509-787-2047   Kohler & Campbell   Console   
+161  Church of the Nazarene, Linda Leavenworth         509-548-5292   Kawai               Grand     
+483  Cindy, Sundberg (A)           Peshastin           509-687-0987   Wurlitzer           Console   
+355  Clayton, Mike & April (A)     Orondo              509-679-6473   Kawai               Grand     
+961  Cloyd, Tim & Lisa (A)         Moses Lake          509-350-9548   Yamaha              Upright   
+702  Coates, Lezlie (A)            East Wenatchee      509-669-8118   Baldwin             Spinet    
+429  Cole, Mike & Janice (A)       North Bend          206-914-2670   Ivers & Pond        Upright   
+382  Coleman, Phyllis (A)          Chelan              509-899-5499   Wurlitzer           Console   
+607  Columbia Basin Hospital, Dian Ephrata             509-754-4631   Winter & Co./ Baldwin/SteckSpinet/Spinet/Upright
+157  Colver, Ray & Gina (A)        Quincy              509-237-8399   Kawai               Grand     
+939  Community Church of Ephrata,  Ephrata             509-754-6130   Samick              Grand     
+119  Community Concert Association Wenatchee           509-670-8668   Steinway            Grand     
+797  Community Log Church, Gordon  Brewster            509-689-2224   Lowrey              Console   
+326  Community of Christ reformed  East Wenatchee      509-630-3941   Everett by Yamaha   Studio    
+864  Community United Methodist Ch Leavenworth         509-548-5619   Kimball             Upright   
+746  Connick, Travis & Trea (A)    Cashmere            541-941-8238   Kimball             Console   
+290  Converse, Liz (A)             Leavenworth         509-548-1436   Yamaha              Upright   
+64   Coonfield, Lee & Loretta (A)  Wenatchee           509-421-1445   Wurlitzer           Spinet    
+726  Cooper, Susan (A)             Wenatchee           509-662-9088   Yamaha              Grand     
+372  Corbaley, Deanna (A)          East Wenatchee      509-670-1170   Baldwin             Spinet    
+656  Corey, Thomas (A)             Peshastin           509-679-6051   Vose & Sons         Upright   
+537  Cornerstone Christian Church, Wenatchee           509-663-2149   K&C                 Grand     
+740  Courtney, Jim & Rene (A)      Chelan              509-123-4567   Kimball             Upright   
+735  Courtney, Tom & Liz (A)       Chelan              509-630-6300   Harrington/Yamaha   Upright   
+387  Couture, Cecelia (A)          Ephrata             509-398-6131   Young Chang         Grand     
+481  Cowen, Robert & Suzanne (A)   Leavenworth         509-421-8858   Yamaha              Studio    
+493  Cox, Jamie (A)                Warden              509-989-8720   Yamaha              Upright   
+731  Craighead, Jan (A)            Warden              509-750-4260   Cable               Console   
+511  Craven, Dick & Greta (A)      Wenatchee           509-663-4815   Samick              Grand     
+824  Crawford, Jerrilea (A)        East Wenatchee      509-387-9762   Baldwin             Spinet    
+62   Crego, Cheryl Ann (A)         Chelan              509-387-5563   Wurlitzer / Starr   Spinet / Grand
+158  Cromar, Genny (A)             Bellingham          360-734-3007   Yamaha              Studio    
+640  Crow, Joan (A)                Wenatchee           509-888-4643   Wurlitzer           Grand     
+626  Cruikshank, Alexa (A)         Cashmere            509-782-3527   Bush & Gerts / YamahaGrand / Upright
+541  Cummings, Jim & Judy (A)      Coulee City         509-681-0555   Lowrey              Console   
+25   Cummings, Joel & Celia (A)    Waterville          509-860-0628   Starck              Upright   
+320  Curren, Sally (A)             Quincy              509-782-8215   Cable               Console   
+603  Cusick, Brandi (A)            Wenatchee           509-630-6313   Lyon & Healy        Upright   
+763  Daley, Elia & Kristi (A)      Leavenworth         509-548-2008   Yamaha              Upright   
+673  Daughtery, Anna (A)           Leavenworth         509-548-4198   Kawai               Studio    
+738  David & Jennifer, Jennifer (A Chelan              509-123-4566   Gulbransen          Console   
+279  Davis, Angela (A)             Moses Lake          509-760-9685   Young Chang         Grand     
+707  Daviscourt, Kevin & Kathy (A) Leavenworth         509-548-7888   Kawai               Grand     
+76   Daviscourt, Kevin - Christian Leavenworth         509-630-7880   Kawai               Grand     
+469  DeChenne, Rex & Marilyn (A)   Wenatchee           509-663-2091   McCormack           Upright   
+947  Delaney, Shawn & Marie (A)    Winthrop            303-834-0197   Knight              Console   
+675  Delangie, Ron & Georgia (A)   Leavenworth         775-835-9648   Whitney             Spinet    
+762  Denainger, Kristin (A)        Wenatchee           425-533-6642   Baldwin             Spinet    
+293  Denkinger, Krista (A)         Wenatchee           509-533-6642                                 
+801  DeRubertis, Barbara (A)       Cashmere            509-782-3434   Baldwin             Console   
+379  Deveney, Jan & Pat (A)        Leavenworth         509-763-2087   Walter              Studio    
+570  Dickerson, Dan & Rita Joy (A) Leavenworth         509-548-5249   Kingsbury           Grand     
+583  Didtel, Sandee (A)            Wenatchee           509-670-5692   Baldwin             Grand     
+327  Dilley, Tim & Amy (A)         Wenatchee           509-662-3070   Baldwin             Spinet    
+990  Dingle, Mike (A)              East Wenatchee      509-679-5816   Samick              Grand     
+925  Do-Re-Mi, Rob Slayman (A)     Wenatchee           866-322-5986                                 
+710  Dobbins, Bill & Linda (A)     East Wenatchee      509-884-1191   Cable Nelson        5.        
+118  Dobbins, Michael (A)          Cashmere            509-714-9419   Howard/Kimball      Upright / Upright /
+144  Dogbe, Kokou & Dede (A)       Moses Lake          509-768-9921   Hallet Davis / McPhailGrand / Upright
+322  Donithan, Gorman & Barb (A)   East Wenatchee      509-293-3592   Samick              Grand     
+715  Douglass, Sheila (A)          East Wenatchee      509-668-7484   Chickering          Console   
+723  Downs, Tim & Mary (A)         Leavenworth         509-548-0253   Gulbransen          Console   
+985  Dufault, Susan (A)            Desert Aire         509-932-4090   Baldwin             Spinet    
+505  Duggan, Wyman & Pam (A)       Quincy              509-797-5557   Yamaha              Console   
+148  Dunn, Arthur (A)              Manson              509-687-0808   Steinway            Grand     
+263  Duzenbery, Jeff & Karen (A)   Wenatchee           907-227-8898   Kawai               Grand     
+817  Eagle, Elise (A)              Peshastin           509-662-2030   Story & Clark       Spinet    
+501  East Wenatchee Baptist, Janet East Wenatchee      509-884-4530   Gulbransen          Spinet    
+550  Eastmont Baptist, Junior (A)  East Wenatchee      509-884-6813   Sohmer & Co.        Grand     
+543  Eaton, Kathleen (A)           Wenatchee           812-240-3227   Victor              Upright   
+705  Eaton, Katleen (A)            Wenatchee           509-888-2913   Victor              Upright   
+782  Ebberson, David (A)           Ephrata             509-750-7498   Kimball             Spinet    
+368  Edwards, Ron & Ardella (A)    Wenatchee           509-888-0346   Yamaha              Console   
+230  Ehmke, Johanna (A)            Cashmere            509-860-4886   ?                   Spinet    
+177  Eifert, Brian & Libby (A)     Wenatchee           509-665-7097   Kawai               Console   
+89   Ekvall, Jeanne (A)            Brewster            509-689-9660   P S Wick            Upright   
+316  Elliott, Laurie (A)           Wenatchee           509-888-0766   Yamaha              Console   
+502  Ellis, Jordan (A)             Wenatchee           253-205-1952   Yamaha              Studio    
+94   Elsner, James & Tara (A)      Chelan              509-679-3560   Yamaha              Upright   
+277  Emmanual Baptist, Gaye Alliso Moses Lake          509-765-8201   Baldwin             Spinet    
+698  England, Jama (A)             Peshastin           509-687-3833   Kimball             Upright   
+261  Engle, Dennis (A)             Wenatchee           509-264-0777   Kawai               5.3       
+22   Enzian Motor Inn,  (A)        Leavenworth         548-5269       Young Chang / StieffGrands    
+971  Ephrata 1st Baptist Church,   Ephrata             509-754-3351   Kawai               Grand     
+361  Ephrata High School, Tim ODon Ephrata             509-754-5285   Yamaha / Kawai / YamahaGrand / Grand / Studio
+152  Ephrata Middle School, Barbar Ephrata             509-754- 4569  Kawai               Studio    
+375  Erickson, Bill & Patty (A)    Warden              509-349-2353   Baldwin             Studio    
+517  Erickson, Sandy (A)           East Wenatchee      509-886-2698   Yamaha              Console   
+73   Erickson, Theresa (A)         Moses Lake          509-989-9674   Kawai               Grand     
+802  Estey, Norville & Marian (A)  Peshastin           509-763-3398   Bush & Lane         Upright   
+881  Esther, Michelle Haegers Mom  Brewster            509-449-0423   Yamaha              Console   
+830  Ewing, Jodi (A)               Leavenworth         308-520-5992   Kimball             Console   
+54   Faith Community Church,  (A)  Moses Lake          509-793-8190   Wurlitzer           Grand     
+106  Faith Lutheran, Susan Butruil Leavenworth         509-548-7010   Yamaha              Upright   
+991  Farag, Sonya & Nabil (A)      Moses Lake          509-750-1700   Hardman             Console   
+877  Farrell, Marlene (A)          Leavenworth         509-548-0815   Huntington          Spinet    
+999  Fasse, Dale & Gail (A)        Winthrop            509-996-3366   Kimball             Console   
+964  Faulkner, Alan & Theresa (A)  Renton              206-763-1815                                 
+115  Faw, Russ & Cathy (A)         Quincy              509-797-3707   Charles Walter      Studio    
+334  Feil, Sara (A)                East Wenatchee      509-884-8851   Yamaha              Console   
+670  Feinman, (Marty) Gail (A)     Wenatchee           509-679-7685   Boston              Grand     
+363  Ferrier, Glen & Jackie (A)    Leavenworth         509-548-4778   Wurlitzer           Spinet    
+827  Field, Craig (A)              Wenatchee           509-630-9112   Winter              Spinet    
+525  Field, Ed & Kit (A)           Quincy              509-398-1016   Baldwin             Studio    
+58   Fields, Matt & Kathy (A)      Leavenworth         509-548-7036   Kawai               Grand     
+807  Fink, Ann (Chester Marler) (A Leavenworth         509-548-4137   Knabe               Upright   
+282  First Baptist Church, Don / M Quincy              509-787-5624   Yamaha              Grand     
+167  First Presbyterian Church, Na Quincy              509-787-2718   Kawai / Baldwin / D.S. JohnstonGrand / Studio / Upright
+95   First United Methodist, Mark  Wenatchee           509-663-1607   Kawai               Grand /   
+703  Fischer, Nicole (A)           Leavenworth         509-888-2112   Neilson & Leischer  Grand     
+357  Fischer, Shannon (A)          Wenatchee           509-630-4058   Yamaha              Grand     
+778  Fitzpatrick, Jenny (A)        East Wenatchee      509-630-3988   Kawai               Grand     
+112  Flanagan, Ryan & Wendy (A)    East Wenatchee      509-885-3376   Kurtzmann           Upright   
+915  Flavin, Devin & Nina (A)      Wenatchee           915-920-1405   Heintzmann          Grand     
+333  Flemming, Diane (A)           Wenatchee           406-788-4728   Knabe               Upright   
+426  Fletcher, Jodi (A)            Moses Lake          509-750-2470   Kimball             Console   
+696  Fletcher, Margaret (A)        Wenatchee           509-670-3780                                 
+461  Flones, Darrilyn (A)          Wenatchee           509-393-0896   Chickering          Grand     
+455  Flood, Michelle (A)           Leavenworth         509-888-3323   Estey               Grand     
+200  Foothills Foursquare, Denise  Wenatchee           509-663-8761   Hailun              Grand     
+579  Ford, Mary Ann (A)            Wenatchee           509-470-8318   Steinway            Grand /   
+197  Foreman, Allison (A)          Wenatchee           206-890-6889   Whitney?            Spinet    
+474  Forss, Becki (A)              Sammamish           425-281-6408   Yamaha              Upright   
+532  Fortney, Mijanou (A)          Leavenworth         509-548-1644   Winter & Co.        Spinet    
+901  Foss, Jim & Jill (A)          Peshastin           360-333-2130   Young Chang         Upright   
+845  Franza, Mike & Cindy (A)      Wenatchee           509-670-8060   Kurtzmann           Grand     
+449  Frazier, Lamyrtha (A)         East Wenatchee      509-884-0158   Monarch             Upright   
+526  Free Methodist, Lana Harrison Quincy              509-787-4491   Yamaha              Grand     
+388  Freeburg, Erling & Dolores (A Wenatchee           509-630-6009   Kawai               Grand     
+311  Freeland, Jeremy & lachovia ( Leavenworth         206-335-1824   Everett             Upright   
+324  Freese, Gary & Nancy (A)      Cashmere            509-782-0536   Knabe               Grand     
+596  Frerks, Colleen (A)           Quincy              509-389-7136                                 
+125  Fresen, Don & Elaine (A)      Des Moines          206-940-1005   Kawai               Grand     
+404  Friends Church, Debbie Harris Entiat              509-784-1342   Baldwin             Studio    
+722  Fritz, Nikki (A)              Cashmere            509-782-5723   Hammond             Spinet    
+887  Froese, Gordon & Mary (A)     Moses Lake          509-765-7483   Victor              Upright   
+742  Funk, Evan & Martha (A)       Leavenworth         509-881-7628   Kohler & Campbell   Grand     
+447  Funk, Martha (A)              East Wenatchee      602-617-5217   H.M. Cable          Console   
+833  Gale, Heide (A)               East Wenatchee      509-679-1486   Cable               Console   
+485  Gallacci, Rachel (A)          Warden              509-707-3383   Baldwin             Spinet    
+741  Gans, Becky (A)               Chelan              509-123-4563   Werner              3/4 Up    
+809  Gansaulas, Laurie (A)         Chelan              206-459-1102   Winter              Grand     
+790  Gant, Dolores (A)             East Wenatchee      509-886-3000   Yamaha              Studio    
+227  Garcia, David & Jamie (A)     Moses Lake          269-945-7011   Cable Nelson        Grand     
+593  Garden Terrace, Kay Johnson ( Wenatchee           509-663-2154   Brambach            Console   
+737  Garfoot, Wendy (A)            Chelan              509-123-4561   Starck              Upright   
+457  Garrison, Amy (A)             Wenatchee           509-888-0378   Kawai               Grand     
+963  Garrison, Rich & Patty (A)    Quincy              509-787-1387   Grand               Console   
+649  Garza, Cynthia (A)            Leavenworth         509-630-1926   Wurlitzer           Spinet    
+400  Garza, Jennifer (A)           Othello             509-989-2245   Baldwin             Console   
+407  Gatens, Clay & Jessica (A)    Cashmere            509-948-8183   Wellington          Upright   
+799  Gausman, Tracy (A)            East Wenatchee      509-884-4484   Baldwin             Spinet    
+599  Gear, Jack & Trixie (A)       Wenatchee           206-406-8734   Yamaha              Grand     
+646  Gellatly, Dave & Sandy (A)    Wenatchee           509-670-5552   Yamaha              Grand     
+929  Gemeinhart, Daniel & Karen (A Cashmere            5017 Harnden                                 
+907  Gence, Roger (A)              Wenatchee           509-264-1753   Knabe               Grand     
+127  Getzinger, James & Rochelle ( Moses Lake          509-989-9464   Baldwin             Studio    
+296  Gianninotti, Ashley (A)       Seattle             253-970-7817   Yamaha              Grand     
+159  Gibbs, Danielle (A)           Leavenworth         509-669-0159   Kimball             Upright   
+55   Gill, Cora Lee (A)            Moses Lake          509-760-7161   Baldwin             Spinet    
+601  Gillan, Cody & Maura (A)      Wenatchee           509-679-7263   Charles Walter      Console   
+747  Goehner, Duane & Tori (A)     Leavenworth         509-293-9919   K&C                 Grand     
+718  Goldberg, Jessica (A)         Winthrop            360-624-3592   Kawai / Baldwin     Spinet / Grand
+51   Goodman, Becky (A)            Leavenworth         260-463-1114   Baldwin             Spinet    
+749  Goodmanson, Amanda (A)        Leavenworth         425-577-0107   Hobart Cable        Upright   
+895  Gottula, David & Susan (A)    Winthrop            509-557-5178   Baldwin             Console   
+395  Gould, Ray (A)                Wenatchee           360-201-2929   Haddorff            Upright   
+981  Gould, Tami (A)               Wenatchee           509-662-7139   Chickering          Grand     
+252  Grace Point, Barb Rettig (A)  Ephrata             509-754-3351   Baldwin / Kawai     Studio / 5.10
+299  Grant, Nancy (A)              Othello             509-346-2769   Yamaha              Console   
+499  Grebb, Tom & Camille (A)      Wenatchee           509-398-1900   Yamaha              Grand     
+720  Green, Kim (A)                Chelan              509-795-0110   Currier             Console   
+686  Green, Marcia (A)             Cashmere            509-881-0181   Starr               Grand     
+569  Green, Mary (A)               Chelan              509-679-8568   Young Chang         Console   
+521  Grizzel, Amy (A)              Ephrata             509-398-7716   Baldwin             Spinet    
+618  Groen, Luke & Sydney (A)      Leavenworth         509-669-0609   Kawai               Grand     
+373  Groff, Mari (A)               Wenatchee           509-663-7040   Chickering          Grand     
+983  Gross, Reggie (A)             Wenatchee           509-679-6440   Packard             Grand     
+418  Grossdidier, Jason & Shannon  Wenatchee           509-264-4899   Baldwin             Studio    
+162  Gubsch, Susan (A)             Cashmere            509-293-2466   Summer              Console   
+631  Guilan, Marian (A)            Wenatchee           509-663-3381   Baldwin             Spinet    
+587  Gunderson, Angie (A)          Leavenworth         509-670-7870   Young Chang         Grand     
+837  Gunderson, Tyler & Abby (A)   Wenatchee           509-881-7189   Brambach            Grand     
+625  Gunn, Tani (A)                Manson              509-668-0415   Kohler & Campbell   Console   
+434  Gunsales, Dave & Lori (A)     Chelan              206-459-1002   Estey               Grand     
+876  Haeger, Michelle (A)          Brewster            509-449-0423   Bush & Gerts / KimballGrand / Spinet
+140  Hafermann, Maury & Shannon (A Leavenworth         509-433-1174   Sohmer              Console   
+586  Hagopian, Shari (A)           East Wenatchee      509-630-1113   Horugal             Grand     
+653  Hahn, Jeanette (A)            Ephrata             509-237-2215   Kohler & Campbell   Upright   
+284  Hanberg, Greg & Greta (A)     Ephrata             509-398-7043   Kroeger / Howard    Upright / Upright
+522  Hansen, Clark & Anna (A)      Wenatchee           509-470-4377   Boston              Grand     
+78   Hansen, Keith & Vonnie/Colin  Moses Lake          509-765-6055   Baldwin             Grand     
+668  Hansen, Scott & Sabrina (A)   Wenatchee           509-665-0428   Wurlitzer           Spinet    
+914  Hanson, Jan (A)               Peshastin           206-660-4017   Chickering          Upright   
+975  Harbury, Emily (A)            Leavenworth         509-387-0077   Baldwin             Spinet    
+645  Harder, Marcia (A)            Quincy              509-237-0276   Kimball             Console   
+217  Harkin, Lorraine (A)          North Bend          425-888-2555   Starr               Spinet    
+87   Harms, Diane (A)              Wenatchee           509-670-5999   Yamaha              Upright   
+553  Harms, Lucy (A)               Leavenworth         509-888-0339   Baldwin             Grand     
+632  Harris, Heidi (A)             Moses Lake          509-855-0002   H.M. Cable          Console   
+701  Harrison, Phil & Debbie (A)   Entiat              509-784-7711   Chickering          Upright   
+826  Hart, Paul & Mila (A)         East Wenatchee      509-884-2078   Yamaha              Studio    
+484  Hartwig, David & Becky (A)    Chelan              509-480-8035   Yamaha              Studio    
+879  Hassinger, Mark & Kelly (A)   Leavenworth         509-881-7854   Yamaha              Studio    
+258  Hastings, Maxine (A)          Olalla              253-858-3718   Everett             Studio    
+96   Hastings, Ona (A)             Wenatchee           509-679-1563   Yamaha              Console   
+339  Hedstrom, Rosemary (A)        Wenatchee           509-293-5852   Grotrian            Grand     
+179  Heins, Michael / Agneta (A)   Wenatchee           509-667-1617   H.M.Cable           Console   
+816  Helgersen, Suzanne (A)        East Wenatchee      509-884-9215   Mason & Hamlin      Grand     
+578  Helsel, Ingrid (A)            Wenatchee           206-406-8116   Young Chang         Grand     
+30   Henderson, Larry (A)          Wenatchee           509-860-0864                                 
+32   Henderson, Renee (A)          Wenatchee           509-393-9622                                 
+420  Hendrickson, Ann (A)          Wenatchee           509-894-2918   Whitney             Spinet    
+682  Hendrickson, Steve (A)        Wenatchee           509-521-9562   Kimball             Console   
+266  Henley, Ed (A)                East Wenatchee      509-741-7172   Kimball             Upright   
+83   Hepnar, Gerald & Colleen (A)  Wenatchee           605-593-1422   Everett             Console   
+693  Heritage Haven Club House, Gl Wenatchee           509-470-7937   Wurlitzer           Spinet    
+691  Heritage Heights, Amanda Ball Chelan              509-682-1998   Yamaha              Console   
+494  Hernandez, Lupe (A)           East Wenatchee      509-679-6247   Everett             Console   
+215  Higgins, Stacy (A)            Moses Lake          509-750-3775   Wurlitzer           Spinet    
+362  Higley, Anne (A)              Wenatchee           509-679-3719   Yamaha              Grand     
+706  Hill, Merrick & Heather (A)   Chelan              509-682-8759   Kingsbury           Upright   
+335  Hill, Sheri (A)               Moses Lake          509-760-4823   Weber               Grand     
+926  Hintz, Kirsten (A)            Moses Lake          509-398-5010   Kirkman             Grand     
+987  Hirai, Amy (A)                Quincy              509-787-4128                                 
+207  Hirsch, Liz (A)               Wenatchee           509-662-2980   Yamaha              Grand     
+936  Hirz, Rhonda (A)              Moses Lake          989-3303       Kimball             Grand     
+878  Holeton, Gayle (A)            Leavenworth         425-466-4357   Kawai               Grand     
+595  Holladay, Kim (A)             Wenatchee           509-669-9983   Wurlitzer           Spinet    
+858  Hollatz, Tom & Chloe (A)      Leavenworth         425-891-8332   Kimball             Upright   
+350  Holleman, Lonnie & Mary (A)   Ephrata             509-289-0899   Yamaha              Upright   
+761  Holloway, David (A)           Moses Lake          509-760-4487   Cable               Grand     
+978  Holy Apostles Catholic Church East Wenatchee      509-884-5484   Yamaha              Grand     
+515  Holy Trinity Lutheran, Denise Ephrata             509-754-2421   Story & Clark       Studio    
+602  Honsinger, Dave & Penny (A)   Wenatchee           509-630-0364   I & P               Console   
+842  Hopkins, Matt & Lenea (A)     Leavenworth         509-741-0353   Marshall & Wendall  Upright   
+716  Horner, Rita (A)              East Wenatchee      509-886-2015                       Upright   
+69   Houston, Sandi (A)            Leavenworth         509-548-7881   Hoffmayer           Console   
+488  Howell, Jim & Nina (A)        Wenatchee           509-668-4166   Lester              Spinet    
+642  Hoyt, Stan & Bev (A)          East Wenatchee      509-884-2554   Yamaha              Grand     
+733  Hsu, Rita (A)                 Wenatchee           509-662-3129   Yamaha              Grand     
+149  Hubbard, Hannah (A)           Manson              509-687-3132   Steinway            Grand     
+822  Huber, Colleen (A)            East Wenatchee      509-662-0847   Baldwin             Studio    
+736  Hudak, Renee (A)              Chelan              509-123-4560   Yamaha              Studio    
+934  Hudson, Robin (A)             Carnation           808-780-0399   Gulbransen          Spinet    
+967  Hunt, Elmer (A)               George              509-237-3819   Baldwin             Spinet    
+424  Hunter, Nicole (A)            East Wenatchee      509-670-3825   Wurlitzer           Spinet    
+628  Hymas, Tiffany (A)            Warden              509-760-6569   Kimball             Console   
+818  Icicle Music Center, Rebecca  Leavenworth         509-548-6437   Kawai               Grand     
+121  Icicle River Middle School, A Leavenworth         509-548-4042   Kawai               Upright   
+608  Immanuel Lutheran Church, Col Moses Lake          509-765-8621   Yamaha              Grand     
+374  Ingalls Creek Enrichment Cent Peshastin           360-271-0678   Aldrich             Upright   
+982  Ingram, Jirapon (A)           East Wenatchee      509-741-0352   Kimball             Spinet    
+366  Irwin, Francis (A)            Moses Lake          509-765-1976   Steinway            Grand     
+634  Isaacson, Glenn (A)           Wenatchee           509-662-1390                                 
+774  Issacson, Glenn & Kieran (A)  Wenatchee           509-670-9307   Baldwin             Grand     
+82   Jackson, Kiamay (A)           Moses Lake          509-855-8187   Hamilton /          Upright / 
+539  Jacobson, Lisa (A)            Waterville          509-745-8411   Yamaha              Console   
+236  Jarmin, Matt & Ann (A)        Wenatchee           509-669-1667   Everett             Upright   
+164  Jean, Julie (A)               Entiat              509-784-5109   Wellington          3/4 Upright
+458  Jenkins, Bill (A)             Leavenworth         509-548-2099   Yamaha              Grand     
+771  Jennings, Shane & Maddie (A)  Quincy              360-320-2542   Yamaha              Grand     
+160  Jensen, Suzi (A)              Leavenworth         509-607-9147   Yamaha              Upright   
+330  Jerald, Katherine & Tyson (A) Chelan              509-881-9330   Conn                Console   
+257  Jesus the Savior M.B.C., Petr Renton              425-274-5408   Hoffmann & Kuhme    Grand     
+548  Jobe, Michelle (A)            Wenatchee           509-679-2912   Yamaha              Console   
+295  Johnson, Blaine & Rashel (A)  Wenatchee           509-333-3333   Yamaha              Upright   
+423  Johnson, Brandon (A)          Puyallup            253-973-5275   Gulbransen          Spinet - 2 String
+253  Johnson, Dave & Vicki (A)     Ephrata             509-754-4018   Yamaha              Grand     
+272  Johnson, Doug & Kathy (A)     Wenatchee           509-663-8490   Kawai               Upright   
+229  Johnson, Kay (A)              Wenatchee           509-664-7300   Yamaha              Studio    
+123  Johnson, Leon & Tana (A)      Puyallup            253-848-0543   Kawai               Grand     
+637  Johnson, Sharon (A)           Wenatchee           509-662-5804   Baldwin             Spinet    
+278  Johnson, Wilma (A)            Moses Lake          509-766-7730   Schiller            Upright   
+268  Johnstone, Zeke (A)           East Wenatchee      509-885-2410   Story & Clark       Console   
+467  Jones, Allen & Nita (A)       Wenatchee           509-860-7058   Baldwin             Grand     
+286  Jones, Arlene (A)             East Wenatchee      509-884-6835   Everett             Grand     
+91   Jones, Jack & Ronnie (A)      East Wenatchee      360-320-1149   Cable - Nelson      Grand     
+708  Jones, Jennifer (A)           Moses Lake          509-765-3664   Sherman Clay        Upright   
+473  Jones, Judy (A)               Seattle             206-517-7876   Baldwin             Console   
+671  Jones, Patty (A)              Wenatchee           509-860-4214   Yamaha              Grand     
+773  Jones, Paul & Judy (A)        Moses Lake          509-431-0438   Wurlitzer           Console   
+186  Joyful Scholars, Ani Ponder / Wenatchee           509-699-8266   Baldwin             Spinet    
+513  Kane, Jody (A)                George              509-787-5866   Steinway            Grand     
+713  Kartum, Lorna (A)             Desert Aire         509-856-2259   Weber               Grand     
+321  Kearney, Kathy (A)            Ephrata             509-860-5996   Remington           Upright   
+531  Keene, Steve & Kristin (A)    Peshastin           509-548-0829   Steinway / Yamaha / P.S.WickGrand / Upright / Upright
+724  Keeney, Mary (A)              Ephrata             509-754-4310   Chickering          Upright   
+841  Keller, Wendy (A)             Ellensburg          206-909-4024   Kawai               Upright   
+911  Kellet, Tyler & Lindsey (A)   Leavenworth         206-459-4841   Lowrey              Console   
+810  Kelly, Aaron & Suzanne (A)    Cashmere            509-782-7113   Kawai               Upright   
+848  Kelts, Judy (A)               East Wenatchee      509-884-7218   ?                   Grand     
+438  Kenison, Shane & Katherine (A Moses Lake          509-760-3324   Yamaha / Davenport TreacyGrand / Upright
+564  Kenoyer, Darla (A)            Cashmere            509-264-3405   Chickering          Grand     
+476  Kerbs, Phil & Tami (A)        Manson              503-881-0901   Yamaha              Grand     
+729  Keys, Timmy (A)               Wenatchee           502-603-1115   Baldwin             Grand     
+465  Keyser, Ashliegh (A)          Wenatchee           509-665-9812   Steinway            Grand     
+744  Keziah, Betina (A)            Leavenworth         509-548-3486   Kawai               Studio    
+617  Kimball, Jay Lynne (A)        Wenatchee           509-669-1566   Yamaha              Grand     
+99   Kimmel, Susan (A)             Wenatchee           509-521-4183   Aldrich             Upright   
+40   Kimmerly, Ralph & Iris (A)    Cashmere            509-670-5088   Baldwin by Yamaha   Grand     
+913  Kinnebrew, Neal & Ginny (A)   Wenatchee           909-440-6277   Kohler & Campbell   Console   
+559  Kirschner, Patsy (A)          Everett             425-747-8186   Yamaha              Upright   
+110  Knapp, Barbara (A)            Leavenworth         206-769-4899   Kawai               Grand     
+410  Koch, Ashley (A)              Wenatchee           602-793-5200   Fischer             Console   
+783  Koeffel, Joan (A)             East Wenatchee      509-888-2333   Baldwin             Console   
+519  Koethke, Trish (A)            George              509-952-2611   Story & Clark       Console   
+173  Kohnhorst, Ken & Charlotte (A Leavenworth         509-549-0150   Knabe               Grand     
+849  Kortum, Harold & Lorna (A)    George              509-856-2259   Weber               Grand     
+255  Kottkamp, Tam (A)             Wenatchee           509-699-8653   Kawai               Grand     
+699  Ksander, Lori (A)             Wenatchee           509-662-5016   Kawai               Grand     
+445  Kubosumi, Debbie (A)          Moses Lake          509-765-5604   Yamaha              Grand     
+90   Kuechmann, Keith & Mary (A)   Wenatchee           509-662-5943   Yamaha              Studio /  
+924  Kurth, David & Jeanetta (A)   Peshastin           509-630-4550   Gulbransen          Studio    
+239  Lair, Greg (A)                Cashmere            509-679-2956   Yamaha              Grand     
+475  Lake Chelan Bach Fest, Beth J Chelan              509-667-0904   Jill Harpsichord              
+306  Lake Chelan Chamber of Commer Chelan              509-682-3503   Kimball             Grand     
+113  Lake Chelan Lutheran church,  Chelan              509-682-9063   Knabe               Grand     
+558  Lake Chelan United Methodist, Chelan              509-682-2241   Kohler & Campbell   Grand     
+354  Lambert, Karl & Marian (A)    Wenatchee           509-888-3498   Samick              Upright   
+256  Lammert, Amy (A)              Wenatchee           509-679-2987   Baldwin             5.        
+638  Lammert, Greg & Laura (A)     Wenatchee           509-679-7387   Aldrich             Grand     
+613  Landgraf, Torrey & Jenelle (A Leavenworth         206-335-1824   Howard              Spinet    
+922  Langlois, David & Denise (A)  East Wenatchee      509-884-6306   Yamaha              Upright   
+504  Lanning, Tory & Jamie (A)     Moses Lake          509-750-8054   Yamaha              Grand     
+343  Larsen, Jim & Grace (A)       Pateros             509-923-9568   Kohler & Campbell   Grand     
+792  Larsen, Shauna (A)            Soap Lake           509-264-7412   Kimball             Spinet    
+345  Larson, Paul & Brandi (A)     East Wenatchee      612-710-4318   Wurlitzer           Spinet    
+998  Larson, Scott & Karen Sue (A) Winthrop            509-923-2123   Yamaha              Console   
+798  Laughery, John & Patty (A)    Moses Lake          509-431-5400   Essex               Grand     
+398  Laughlin, Larry & Preta (A)   George              509-358-0427   Yamaha / Yamaha / BaldwinGrand / Console / Hamilton
+644  Laura, Roseanna (A)           Chelan              509-793-5464   Lakeside            Upright   
+225  Lavergne, Matt & Melanie (A)  Wenatchee           509-860-9345   Yamaha              Studio    
+97   Lavergne, Rebecca (A)         East Wenatchee      509-860-9806   Sohmer              Upright   
+143  Lawrence, Chris & Mary (A)    Seattle             206-617-1414   Yamaha / Steinway / Henry F MillerGrand / Grand / Grand
+141  Lawrence, Todd & Monica (A)   Wenatchee           509-423-3289   Clarendon           Grand     
+104  Lawson, Tom & Lori (A)        Everett             425-681-2458   Steinway            Grand     
+571  Leavitt, Jamie (A)            Warden              509-793-5433   Currier             Console   
+401  Leavitt, Marsha (A)           Warden              509-349-2535   Vogel               Grand     
+573  Leavitt, Nadine (A)           Warden              509-361-9658   Baldwin             Console   
+648  Lenssen, Jan (A)              Wenatchee           509-423-7101   Wurlitzer           Spinet    
+129  Leon, Jeanette (A)            Wenatchee           509-741-7193   Wurlitzer           Spinet    
+92   Leslie, Kristin (A)           Ephrata             509-237-8563   Samick              Console   
+65   Lesmeister, Tar & Vicki (A)   Wenatchee           509-663-1785   Kawai               GrandConsole /
+171  Lewis, Scott (A)              Peshastin           509-263-5045   Knabe / Steinway    Studio / Grand
+244  Light in the Valley, John Rom Leavenworth         509-548-7517   Baldwin             5.6       
+425  Living Word Lutheran, Debbie  Moses Lake          509-750-2486   Howard              Grand     
+430  Lloyd, Nikki (A)              North Bend          425-753-1068   Hallet & Davis      Console   
+908  Lnenicka, Terry & Becky (A)   Ephrata             509-398-1679   Ivers & Pond        Upright   
+946  Locateli, Jim & Angie (A)     Wenatchee           509-881-1010   Kawai               Grand     
+689  Lodato, Zach & Marian (A)     Wenatchee           509-860-1304   Kimball             Upright   
+856  Loebsack, Alan & Marge (A)    Waterville          509-745-8409   Baldwin             Spinet    
+866  Loebsack, Dolores (A)         Waterville          509-745-8600   Hyundai             Upright   
+203  Lorenz, Al & Denise (A)       Manson              509-293-7972   Yamaha              Grand     
+233  Lounsberry, Mark (A)          Wenatchee           509-670-4050   Kohler & Campbell   Grand     
+780  Luce, Rod (A)                 Quincy              509-741-7277   Haddorf             Console   
+641  Ludwick, Peggy (A)            East Wenatchee      509-952-2007   Gulbransen          Grand     
+968  Maag, Regina (A)              Quincy              509-787-4930   Baldwin             Spinet    
+463  Maasen, Bethany & Mark (A)    Warden              509-989-7501   H.M. Cable/Yamaha   Console/Upright
+246  MacIntyre, Tam (A)            Moses Lake          509-431-2194   Wurlitzer           Spinet    
+928  Mack, Ralph & Renee (A)       Wenatchee           509-630-1871                                 
+828  Mackawa, Marian (A)           East Wenatchee      509-884-4030   Pullman             Upright   
+308  Macon, Brian & Stephanie (A)  Cashmere            509-699-9865   Cable-Nelson        Spinet    
+49   MacPhee, Brooke (A)           Leavenworth         509-860-0844   Kimball             Upright   
+942  Madariaga, Richard & Elicia ( Wenatchee           208-861-8981   Lester              Spinet    
+273  Maekawa, Henry & Maekawa (A)  East Wenatchee      509-884-2030   Pullman             Upright   
+251  Mahugh, Margurite (A)         Ephrata             856-371-2376   H. M. Cable         Spinet    
+358  Mahuika, Chelsea (A)          Wenatchee           509-470-8003   Vose & Sons - AeolianConsole   
+581  Manley, Christine (A)         Moses Lake          509-765-7448   Kawai               Console   
+870  Marcusen, Sandra (A)          Quincy              509-787-3354   Kimball             Grand     
+979  Marston, Mary (A)             Wenatchee           509-669-8063   Kimball             Grand     
+280  Martin, Kieth & Carol (A)     North Bend          425-830-9951   M. Schulz           Upright   
+48   Martin, Millie (A)            East Wenatchee      509-264-9062   Steinway / Kawai    Upright / Grand
+970  Martin, Patty (A)             Quincy              509-787-4275   Yamaha              Console   
+21   Martinez, Cheryl (A)          East Wenatchee      509-881-5569   Kawai               Upright   
+508  Masonic Lodge, Carole Lee Wal Quincy              509-679-4527   Kimball             Console   
+789  Matthews, Jim (A)             Chelan              509-682-4653   Young Chang         Grand     
+972  Matthews, Stephanie (A)       Wenatchee           509-662-5097   Kawai               ?         
+238  Mayaugh, Margaret (A)         Wenatchee           856-371-7367   H.M Cable           Console   
+116  McCance, Skip & Sue (A)       Quincy              509-760-8363   Cable               Upright   
+380  McComas, Marcia (A)           Leavenworth         509-433-1830                                 
+448  McCracken, Larry (A)          Wenatchee           509-470-4460   ?                   Console   
+93   McCreary, Sonya (A)           Wenatchee           509-860-5880   Brambach            Console   
+323  McCutcheon, Karen (A)         Wenatchee           509-662-3590   Yamaha              Upright   
+672  McDarment, Betsy (A)          Wenatchee           509-663-7767   Cramer              Grand     
+890  McDevitt, Jordan & Olivia (A) Leavenworth         509-393-5851   Story & Clark       Console   
+156  McDevitt, Todd & Jodi (A)     Leavenworth         509-393-3407   Gulbransen          Spinet    
+678  McElroy, Jamie (A)            Cashmere            509-860-0248   Kawai               Upright   
+478  McGauhey, Bill & Carol (A)    Wenatchee           509-663-6787   Yamaha              Upright   
+46   McGiness, Olivia (A)          East Wenatchee      509-679-8209   Estey / Behr Bros.  Grand / Upright
+450  McGraw, Doreen (A)            Moses Lake          509-765-8341   Yamaha              Grand     
+884  McKee, Alicia (A)             Leavenworth         509-699-9763   McPhail             Upright   
+647  McKee, Anita (A)              Wenatchee           509-888-4161   Sterling            Spinet    
+310  McKenzie, Tina (A)            Leavenworth         509-881-5602   Emerson             Grand     
+910  McKenzie, Zona (A)            Leavenworth         360-333-4225   Steinway            Grand     
+927  McManus, Jerry (A)            East Wenatchee      509-884-4713                       Grand /   
+960  McPherson, Morgan & Angela (A Ephrata             907-854-2013   Yamaha              Console   
+126  Mead, Don & Jill (A)          Quincy              509-787-2508   Christman           Grand     
+79   Mead, Kristin (A)             Quincy              509-398-5071   Wurlitzer           Spinet    
+193  Mengelos, Susie (A)           Longview            360-430-3574   Wurlitzer           Spinet    
+184  Merrill, Cathy (A)            Wenatchee           509-630-0809   Young Chang         Grand     
+669  Merrill, Eunice (A)           East Wenatchee      509-886-1009   Baldwin             Console   
+275  Merrill, Jerry & Elberta (A)  Wenatchee           509-670-2048   Schafer & Sons      Grand     
+433  Merrill, Liz (A)              East Wenatchee      509-264-4257   Wurlitzer           Spinet    
+337  Merritt, Mara (A)             Leavenworth         509-888-9997   Yamaha              Grand     
+443  Methodist Church, Matt & Juli Manson              509-687-3311   Meister             Upright   
+752  Michael, John (A)             Quincy              509-881-8172   Baldwin             Spinet    
+957  Michel, Terry & Linzi (A)     Quincy              509-398-0190   Yamaha              Grand     
+392  Mid Valley Baptist, Brenda Sm Peshastin           509-782-2616   Yamaha              Grand     
+546  Miles, Liz (A)                Wenatchee           206-819-9471   Winter              Spinet    
+441  Miller, Crystal (A)           Pateros             509-846-3240   Kimball             Upright   
+872  Miller, Kathleen (A)          Wenatchee           509-662-1283   Cable               ?         
+652  Minor, Michelle (A)           Chelan              509-670-4335   Grotrian            Grand     
+315  Miracle, Kathleen (A)         Moses Lake          509-765-2578   Yamaha              Console   
+370  Mitraku, Danielle (A)         Wenatchee           509-393-1996   R.S. Howard         Upright   
+993  Mittlestaedt, Sylvia (A)      Waterville          509-745-8822   Kawai               Grand     
+899  Mohrmann, Dana (A)            Woodinville         206-949-0727   Wurlitzer           Console   
+764  Monitor United Methodist Chur Cashmere            509-782-2601   D.H. Baldwin        Grand     
+955  Montgomery, Lisa (A)          East Wenatchee      509-884-1656   Kimball             Grand     
+855  Moody, Kathy - James (A)      East Wenatchee      425-405-8998   Chickering          Console   
+684  Moore, David & Susan (A)      Wenatchee           865-805-0837   Henry Miller        Spinet    
+264  Moore, Kristopher (A)         Moses Lake          503-504-6862   Yamaha              Upright   
+534  Moore, Priscilla (A)          East Wenatchee      360-244-8838   Eilers              Upright   
+132  Moore, Roger & Mojdeh (A)     Leavenworth         253-312-2248   Yamaha              Grand     
+969  Morgan, Laurel (A)            Quincy              509-787-2602   Yamaha/ Weser       Upright/ Upright
+172  Morley, Ken (A)               Wenatchee           509-663-3465   Yamaha              Grand     
+597  Morton, Steve (A)             Leavenworth         509-548-0233   Steinway            Grand     
+574  Moses High School, David Holl Moses Lake          509-766-2666   Kimball / Baldwin   Grand / Studio
+795  Moses Lake Alliance Church, T Moses Lake          509-765-6656   Kawai               Grand     
+376  Moses Lake Christian Academy, Moses Lake          509-765-9704   Kimball / Young ChangConsole / Console
+216  Moses Lake Music Teachers, Ha Moses Lake          509-764-3701   Kawai               Grand     
+920  Moses Lake School District,   Moses Lake          509-766-2650                                 
+892  Moses Lake Technical Skills C Moses Lake          509-793-7003   Baldwin             Spinet    
+214  Motteler, Janet (A)           Leavenworth         509-000-0000   Grotrian            Grand     
+393  Mountain Meadows, Fern (A)    Leavenworth         509-548-4076   Kawai / Kincaid     Upright / Spinet
+751  Mountain View Elementary Scho Quincy              509-787-4548   Baldwin             Studio    
+835  Moyles, Warren (A)            Peshastin           509-548-5448   Kawai               Console   
+100  Mueller, Mike & Annette (A)   Wenatchee           509-607-4991   Story & Clark       Grand     
+26   Mullene, Joan (A)             Wenatchee           509-860-2570   Charles Walter /    Studio    
+524  Munson, Jim (A)               Wenatchee           619-997-8131   Baldwin             Grand     
+39   Munter, Chris & Marina (A)    Moses Lake          509-855-2662   Steck / Yamaha      Grand / Grand
+344  Music Teachers Wen., Diane St Wenatchee           509-660-0000   Whatever they use             
+685  Mutter, Will (A)              Chelan              509-670-2641   Kimball             Console   
+533  Myers, Daniel & Liz (A)       Leavenworth         206-819-9471   Winter & Co.        Spinet    
+965  Nash, Denise (A)              Ephrata             509-750-2770   Gulbransen          3/4 Upright
+860  Neff, Jennifer (A)            East Wenatchee      509-886-3891   Segerston           Upright   
+103  Neleson, Beth (A)             North Bend          425-941-2857   Wurlitzer           Upright   
+466  Nelson, LouAnn (A)            Wenatchee           509-264-0180   Baldwin             Grand     
+775  Nelson, Mary Carol (A)        Everett             509-548-8006   Everett             Console   
+389  New Life Church,  (A)         Peshastin           509-548-4222   Knabe               Grand     
+340  Newman, Jennifer (A)          Wenatchee           509-255-8084   Knabe               Console   
+84   Newman, Matthew & Jennifer (A Wenatchee           202-258-8084   Mason & Hamlin      Console   
+832  Newsom, Keely (A)             Leavenworth         509-670-2746   Chickering Bro.     Upright   
+918  Newsom, Rob (A)               Leavenworth         509-670-3166   Chickering          Grand     
+428  Nickel, Lila (A)              Wenatchee           509-662-1743   Baldwin             Spinet in a Console Case
+489  Niemela, Joy (A)              Cashmere            509-999-1801   Starck              Spinet    
+512  Nixon, Brent (A)              Cashmere            509-782-1373   Winter              Spinet    
+231  Northshore Bible Church,  (A) Manson              509-687-3836   Kawai               Grand     
+544  Noyes, Sarolta (A)            Cashmere            509-782-2439   Samick              Console   
+356  ODonnell, Tim (A)             Ephrata             509-312-0916   Boston              Grand     
+451  Ogan, Bob & Theresa (A)       East Wenatchee      886-0334       Mason & Hamlin      Grand     
+770  OGrady, Amy (A)               Wenatchee           509-860-9563   Yamaha              Upright   
+755  Ogradys Pantry, Ken (A)       Leavenworth         509-670-7233   Behr Bro.           Upright   
+196  Ohs, Dan & Kyla (A)           Moses Lake          509-431-7750   Weber               Grand     
+259  Olalla Bible Church, Maxine H Olalla              253-851-4272   Wurlitzer           Spinet    
+805  Oliver, Marian (A)            Moses Lake          509-989-0266   Kimball             Console   
+719  Ollala Bible Church, Maxine H Olalla              253-851-4222   Wurlitzer           Spinet    
+413  Olmsted, Alden & Louise (A)   Moses Lake          509-989-4483   Maeari (Hyundai)    Grand     
+863  Ostrom, Glenn & Jodi (A)      Leavenworth         509-548-0372   Samick              Console   
+995  Ostrom, Peter Spieger & Marci Leavenworth         509-888-2001   Kawai               Upright   
+166  Ottley, Gloria (A)            George              509-785-4461   Winter              Spinet    
+165  Ottley, Mandy (A)             George              509-760-1272   Kimball             Spinet    
+138  Otto, Connie (A)              East Wenatchee      509-884-2662   Story & Clark       Upright   
+245  Our Lady of the Snows Cath.,  Leavenworth         509-548-5119   Steinway            Studio    
+248  Our Saviors Lutheran, Richard Ephrata             509-754-3468   Kawai               Upright   
+900  Overturf, Randy & Tracy (A)   Leavenworth         425-286-4600   Story & Clark       Console   
+329  Pankey, Sydna (A)             Wenatchee           509-667-1070   Yamaha              Console   
+930  Parker, Dave (A)              Wenatchee           509-860-4031   Steinway            Grand     
+766  Parker, Doreen (A)            East Wenatchee      509-886-9526   Yamaha              Console   
+667  Parker, Judy (A)              Cashmere            509-630-0189   Steinway            Grand     
+687  Parkway Elementary School,  ( Ephrata             509-754-9729   Yamaha              Studio    
+234  Parzybok, Bonnie (A)          Cashmere            406-270-7880   Baldwin             Spinet    
+898  Pasion, Steve & Lindsay (A)   East Wenatchee      509-670-3449   Lowrey              Console   
+243  Pateros High School, Jonathon Pateros             509-923-2343   Hyundai/ Kimball    Studio / 5.6
+657  Patrick, Tim (A)              Wenatchee           509-888-5664   Samick              Studio    
+661  Patterson, Jean (A)           Ephrata             509-669-6444   Suzuki              Grand     
+74   Patterson, Pat & Lea (A)      Ephrata             509-989-4532   Kawai               Grand     
+577  Pauli, Steve & Portia (A)     Chelan              509-682-4129   Yamaha              Grand     
+552  Payne, Graciela (A)           Moses Lake          509-793-8521   Yamaha              Upright   
+756  Payne, Shawn & Melissa (A)    Wenatchee           509-741-0422   Kimball             Upright   
+34   Peart, Margot (A)             Wenatchee           509-470-6199   Yamaha              Studio /  
+242  Peaslee, Amanda (A)           Wenatchee           509-855-6635   Wurlitzer           Spinet    
+57   Peet, Marliyn (A)             Wenatchee           509-669-1325   Baldwin             Studio    
+241  Pehrson, Liza (A)             Peshastin           425-985-7525   Kohler & Campbell   Grand     
+951  Pelton, Doug (A)              Wenatchee           509-387-0940   Baldwin             Spinet    
+247  Penhallurick, Rene (A)        Moses Lake          509-989-9887   Yamaha / Yamaha / Yamaha / Yamaha / Yamaha/ Kawai9. / 6.10 / 48" Diskavier / 7.6 / 5.8 / 49
+206  Peterson, Angie (A)           Leavenworth         999-999-0000   Story & Clark       3/4 Upright
+254  Peterson, Dale & Camille (A)  Wenatchee           509-679-4112   Steinway            Grand     
+353  Peterson, John & Becky (A)    Leavenworth         509-548-4686   Yamaha              Grand     
+612  Peterson, Josh & Rachel (A)   East Wenatchee      503-577-4948   Baldwin             Console   
+285  Peterson, Mark (A)            Wenatchee           509-264-1882   Boston              Grand     
+456  Peterson, Michelle (A)        East Wenatchee      360-213-3258   Gulbransen          Console   
+745  Petit, Lisa (A)               Wenatchee           509-662-5737   Everett             Console   
+620  Petrie, Jan (Greg) (A)        Wenatchee           509-860-4365   Kawai               Grand     
+180  Petro, Rachael (A)            Wenatchee           907-360-9766   Howard              Grand     
+411  Pfeifle, Lori (A)             East Wenatchee      509-630-9828   Emerson             Upright   
+178  Phillips, Emily (A)           Wenatchee           509-293-2244   Wurlitzer           Studio    
+555  Pickering, Lois (A)           East Wenatchee      509-884-1211   Sterling            Upright   
+769  Pinkerton, Jonathon (A)       Quincy              509-777-5134   Wurlitzer           Spinet    
+750  Pioneer Elementary School,  ( Quincy              509-787-1595   Baldwin             Studio    
+146  Piper, Chris (A)              Royal City          509-760-5607   Baldwin             Spinet    
+585  Pipkin, Mikayla (A)           Quincy              208-870-5031   Baldwin             Spinet    
+676  Pittman, Terry & Linda (A)    Peshastin           509-293-7631   2937631             Upright Player
+528  Pitts, Kevin & Suzy (A)       Wenatchee           509-663-0390   Kawai               Studio    
+880  Pleas, Karen (A)              Wenatchee           509-264-1456   Kimball             Console   
+530  Ploch, Ty & Angie (A)         Wenatchee           509-860-5889   Yamaha / kimball    Console / Studio
+861  Pobst, Debbie (A)             Plain               509-763-3442                                 
+47   Ponder, Anni (A)              Wenatchee           509-679-2740   Sojin               Grand     
+431  Posenjac, Janet (A)           East Wenatchee      509-860-8202   Aeolian/Yamaha      Studio/Grand
+367  Pugmire, David & Anne (A)     East Wenatchee      801-633-5374   Yamaha              Upright   
+222  Pybus Market, Dale Peterson ( Wenatchee           509-888-3900   Gulbransen          Grand     
+681  Quincy Free Methodist, Vonna  Quincy              509-787-4491   Yamaha              Grand     
+454  Quincy Historical Society, Ha Quincy              509-787-4685   Chickering          Upright   
+869  Quincy School District,  (A)  Quincy              509-787-4571                                 
+875  Quinn, Todd & Marilen (A)     Chelan              509-996-1000   Starr/Ivers & Pond  Grand / Upright
+753  Quiny High School,  (A)       Quincy              509-787-3501   Yamaha              Grand     
+36   Rainbolt, Janice (A)          Wenatchee           509-264-1938   Gulbransen          Spinet    
+436  Ranne, Wayne & Janice (A)     Entiat              509-784-1487   Kohler & Campbell   Console   
+226  Rappe, Teri (A)               Wenatchee           509-662-4121   Yamaha / Kawai      Console / Grand
+432  Recchia, Denise (A)           Methow              808-283-2425   Steinway            Grand     
+405  Red Rock Elementary School, E Royal City          509-346-2206   Baldwin             Spinet    
+318  Reed, Susan (A)               Wenatchee           509-667-1773   Yamaha              Console   
+503  Reeg, Mark & Rachel (A)       Wenatchee           425-765-3855   Knabe               Upright   
+189  Regency Manor,  (A)           Wenatchee           541-905-6818   Kimball             Grand     
+821  Regency Manor Chelan,  (A)    Chelan              509-682-2551   Yamaha              Console   
+556  Reinhart, Jan (A)             Chelan              509-682-0542   Gulbransen          Spinet    
+163  Reynolds, Stephanie (A)       Wenatchee           509-670-3838   Kohler & Campbell   Console   
+566  Rhodes, Jim & Wendy (A)       Chelan              509-293-2043   Kawai               Studio    
+834  Rhodes, Linda (A)             East Wenatchee      509-699-3967   Steck               Grand     
+416  Richmond, Nikki (A)           East Wenatchee      509-393-9111   Fischer             Upright   
+352  Rieke, Micah (A)              Leavenworth         253-318-3679   Hammond             Spinet    
+364  Riley, Jeff & Lori (A)        Orondo              509-784-5011   Yamaha              Upright   
+829  River Heights Lodge, Darrilyn Leavenworth         509-885-6177   Heintzman           Console   
+966  Riverside Playhouse, Glen Isa Wenatchee           509-662-7814   Wurlitzer/Baldwin   Console/Grand
+714  Riverside Presbyterian Church Desert Aire         509-932-4651   Yamaha              Console   
+852  Roberts, Don & Sandee (A)     East Wenatchee      509-699-5781   Kingsbury           Upright   
+346  Roe, Amy (A)                  Wenatchee           509-264-1066   Yamaha              Console   
+408  Rolfs, Sarah (A)              Wenatchee           509-679-2043   Ellington / HaddorffUpright / Upright
+292  Romano, Susan (A)             Quincy              509-787-3259   Yamaha              Studio    
+727  Rosales, Crystal (A)          Wenatchee           509-860-4779   Story & Clark       Console   
+319  Roseburg, Chad & Valentina (A Quincy              509-668-1277   Kimball             Console   
+905  Rostedt, Mark & Katrina (A)   Leavenworth         509-860-2844   Kohler & Chase      Upright   
+851  Rowbotham, Jeff & Gail (A)    East Wenatchee      425-736-0112   Haines & Co.        Upright   
+406  Royal City High School, Eric  Royal City          509-346-2256   Yamaha              Studio    
+717  Roylance, Kent & Chrissy (A)  Moses Lake          509-855-2552   Baldwin             Spinet    
+992  Ryan, Dave & Donna (A)        Gig Harbor          509-853-1899   Yamaha              Grand     
+997  Ryan, John (A)                Wenatchee           886295         Kimball             Grand     
+250  Ryan, Shelly (A)              Cashmere            509-398-1858   ?                   Upright   
+665  Saint Andrews Episcopal Churc Chelan              509-682-2851   Hardmann            Upright   
+896  Saint Francis Catholic Church Chelan              509-295-7814   Wurlitzer           Spinet    
+606  Saint John the Baptist Episco Ephrata             509-754-4949   Kohler & Campbell   Grand     
+536  Saint Josephs Catholic Church Wenatchee           509-662-4569   Yamaha / Yamaha / LowreyGrand / Grand / Spinet
+636  Saint Josephs Catholic School Wenatchee           509-662-4569   Yamaha              Upright   
+674  Saint Martins Episcopal Churc Moses Lake          509-765-3369   Kawai               Grand     
+506  Saint Pauls Lutheran, Pam Dug Quincy              509-787-2824   Yamaha              Grand     
+779  Saint Pius Catholic Church, M Quincy              509-787-2622   Yamaha              Grand     
+267  Saint Rose of Lima Cath. Scho Ephrata             509-754-4901   Kimball             5.6       
+791  Sandberg, Joel (A)            Moses Lake          509-760-1828   Lowrey              Console   
+588  Sandum, Gary & Barbara (A)    East Wenatchee      509-670-8291   Yamaha / Yamaha     Upright/ Console
+317  Sanford, Diana (A)            Wenatchee           509-662-3058   Steinway            Grand     
+397  Sanford, Kevin (A)            Chelan              360-784-0350   Steinway            Grand     
+237  Sarles, Dan & Vivian (A)      Wenatchee           509-663-7065   Kawai               Grand /   
+662  Sarty, LeAnn (A)              Snoqualmie          509-398-4368   Brambach            Grand     
+547  Savage, Sunny (A)             East Wenatchee      509-860-1629   Young Chang         Grand     
+523  Schapman, Jean (A)            Wenatchee           509-670-3139   Wurlitzer           Console   
+213  Schefflebein, John & Meghan ( Leavenworth         509-548-2499   Kimball             Console   
+249  Scheumann, Stan & Donna (A)   Wenatchee           509-662-7549   Kimball             Console   
+377  Scheuneman, Teri (A)          Wenatchee           509-665-5959   Grand               Spinet    
+439  Schieffelbein, Rick & Marilyn East Wenatchee      509-470-6784   Story & Clark       Spinet    
+561  Schneider, Ed & Carol (A)     Renton              425-277-7634   Yamaha              Upright   
+688  Schumacher, Kay (A)           Wenatchee           509-667-2101   Baldwin             Console   
+843  Schuyleman, Megan (A)         Wenatchee           509-630-2007   Sherman Clay        Spinet    
+935  Schweitzer, Betty Jean (A)    Wenatchee           408-205-8769   Wurlitzer           Console   
+224  Scott, Margaret (A)           Wenatchee           509-665-8018   Baldwin             Grand     
+836  Scott, Zelda (A)              Peshastin           509-433-1165   Brambach            Console   
+700  Seaberg, Audrey (A)           Quincy              509-787-3388   Kimball             Upright   
+811  Senior Center,  (A)           Wenatchee           509-662-7036   Baldwin / Wurlitzer Spinet / Spinet
+538  Servias, Cliff & Patty (A)    Ephrata             509-633-7157   Yamaha              Upright   
+332  Seutz, Kevin & Belinda (A)    Ferndale            360-224-0480   Kimball             Upright   
+421  Seventh Day Adventist, Michel Brewster            509-689-3537   A.B. Chase / Haines Grand / Upright
+575  Seventh Day Adventist Church, Ephrata             509-754-2618   Kawai               Grand     
+422  Seventh day Adventist School, Brewster            509-689-3213   Gulbransen / WillardConsole / Upright
+169  Seyster, Jolly (A)            Wenatchee           509-670-2500   Chickering          Grand     
+209  Shackleford, Cheryl (A)       East Wenatchee      509-668-0554   Kawai               Grand     
+369  Shanbour, Michael & Makrina ( Wenatchee           509-888-5670   Aldrich             Upright   
+813  Sharp, Dolores (A)            Chelan              509-682-2156   Aeolian             Upright   
+59   Shattuck, Jason & Amy (A)     Wenatchee           509-668-7501   Steinway / Kimball / CableUpright / Grand / 3/4 Upright
+996  Shattuck, Jason & Amy (A)     Wenatchee           509-668-7502   Kimball / Steinway / CableGrand / Upright / Upright 3/4
+27   Shaw, Gail (A)                Chelan              425-359-6311   Cable               Console   
+748  Sheets, Coulee & Barbara (A)  Leavenworth         509-548-5528   ?                   Console   
+695  Shelldeitsch, Susie (A)       Wenatchee           509-662-1558   Steinway            Grand     
+269  Shipman, Mark (A)             Wenatchee           509-662-7966   Price & Teeple      Upright   
+183  Short, Christy (A)            North Bend          425-281-0815   Horugal             Console   
+153  Shutt, Larry & Kathy (A)      Chelan              509-682-1896   Kawai               Grand     
+754  Silva, Melanie (A)            Cashmere            509-669-1617   Wing                Upright   
+697  Simon, Linda (A)              Leavenworth         509-548-5968   Kawai               Grand     
+102  Sippy, Marty & Marilyn (A)    Renton              425-830-1174   Yamaha              Grand     
+359  Sites, Lori (A)               Cashmere            509-668-0626   Heintzman           Console   
+298  Skagen, Ruthella (A)          East Wenatchee      509-884-1414   Yamaha              Console   
+889  Skinnerland, Kirvil (A)       Leavenworth         509-470-8587   Steinway            Console   
+471  Slager, Paul & Jane (A)       Quincy              509-787-4991   Yamaha              Studio    
+154  Slavic Baptist Church, Eugene East Wenatchee      509-471-0105   Wurlitzer           Console   
+130  Sleeping Lady, Eric/Kingfishe Leavenworth         509-888-9894   Kohler & Campbell   Upright   
+976  Sloan, Melissa (A)            Moses Lake          509-989-3441   Baldwin             Spinet    
+168  Slouber, Mark & Lynn (A)      Ephrata             509-760-1436   Weaver              Upright   
+495  Smith, Bob & Cheryl (A)       Wenatchee           509-662-4581   Bosendorfer         Grand     
+383  Smith, Bonnie (A)             Ellensburg          509-899-5499   Steinway            Grand     
+391  Smith, Brenda (A)             Cashmere            509-669-3644   Boston/ Gulbransen  Studio / ?
+287  Smith, Dennis & Sheryl (A)    Wenatchee           509-670-9046   Yamaha              Console   
+75   Smith, Ed & Julie (A)         Entiat              509-369-8979   Kawai / Kimball     Grand / Consolette
+630  Smith, Greg & Jenny (A)       Cashmere            509-669-7213   Yamaha              Upright   
+952  Smith, Rod & Becky (A)        Monitor             509-663-1967   Gulbransen/Milton   Spinet/Grand
+294  Smith, Vern & Julie (A)       Wenatchee           509-860-2007   Kawai               Grand     
+677  Smith, Wendy (A)              Chelan              509-607-1827   Baldwin             Spinet in Console Case
+948  Smyly, Katrina (A)            Entiat              425-754-7373   Baldwin             Console   
+349  Snyder, John & Kathy (A)      Moses Lake          509-765-9321   Wurlitzer           Console   
+980  Soderstrom, Keith (A)         Waterville          509-745-9955   Yamaha              Upright   
+659  Sommerfield, Kayla (A)        Wenatchee           509-548-5538   Chickering          Grand     
+45   Sorensen, Ben (A)             Wenatchee           206-601-5629   Pease               Grand     
+402  Sorom, Galen (A)              Wenatchee           509-387-0118   Cable / Yamaha      Spinet / Upright
+844  Sorrentos Restaurant,  (A)    Chelan              509-682-9463   Kimball             Grand     
+568  Spangler, Dennis (A)          Moses Lake          509-750-8672   Kawai               Upright   
+540  Sparks, Jana (A)              Leavenworth         509-548-7443   Wurlitzer           Console   
+883  Springer, Carol (A)           Wenatchee           509-665-0946   Kawai               Grand     
+514  Springs, Tammie (A)           Ephrata             509-398-8351   ?                   Upright   
+265  St John, Jake (A)             Wenatchee           509-433-8615   Knabe               Console   
+53   St. John, Jake (A)            Wenatchee           509-433-8615   Knabe               Console   
+341  Stebbins, Vicki (A)           Wenatchee           509-888-3839   Everett             Console   
+739  Stehekin School, David Getche Chelan              509-123-4568   Yamaha              Upright   
+894  Steichen, Joan (A)            Wenatchee           509-669-3414   H.M. Cable          Spinet    
+639  Steinberg, Bob & Twila (A)    Wenatchee           509-470-6249   Kohler & Campbell   Grand     
+610  Stennes, Robin (A)            Methow              509-733-2197   Foster              Upright   
+627  Stephens, Ernie & Deborah (A) Cashmere            907-227-8650   Baldwin             Studio    
+732  Stephens, Mikiko (A)          East Wenatchee      509-884-1135   Kohler & Campbell   Console   
+621  Stevens, Brian & Juli (A)     Malaga              509-669-0148   Yamaha              Upright   
+414  Stober, Diane (A)             Wenatchee           509-663-7654   Yamaha              Upright   
+185  Stokes, Joyce (A)             Wenatchee           509-630-0908   Kimball             Console / 
+944  Stonas, Al & Jackie (A)       Wenatchee           509-293-1800   Yamaha              Grand     
+170  Street, John & Nancy (A)      Quincy              509-787-3341   Starck              Console   
+804  Streich, Eric & Marcia (A)    George              509-237-3814   Yamaha              Upright   
+328  Streicher, Joan (A)           East Wenatchee      509-669-3414   H. M. Cable         Spinet    
+787  Stringham, Paul (A)           Wenatchee           509-393-1150   Monarch             Upright   
+666  Strom, Karen (A)              Leavenworth         509-548-4319   Kimball             Studio    
+932  Strong, Hannah (A)            East Wenatchee      360-584-6216   Baldwin             Grand     
+446  Stuckey, Stan & Karmen (A)    Moses Lake          509-750-6046   Kimball             Console   
+962  Sullivan, Ed (A)              Peshastin           509-679-0634   Wendelin Wihan (mfg.1838)Grand     
+757  Sundberg, Cindy (A)           Peshastin           509-687-0987   Wurlitzer           Console   
+1000 Sutherland, Dave (A)          Wenatchee           509-679-1776   Cable & Co.         Grand     
+150  Sutton, Keith & Brenda (A)    Peshastin           509-548-5856   Cable               Spinet    
+41   Suzelis, Jacquline (A)        East Wenatchee      330-281-1149   Baldwin             Console   
+28   Swanson, Rebecca (A)          Wenatchee           612-770-4956   Remington           Upright   
+694  Sweat, Glenda (A)             Wenatchee           509-667-1709   Wurlitzer           Spinet    
+477  Swidler, Warren & Petra (A)   Wenatchee           314-809-9958   Sangler & Sohn      Console   
+921  Taggart, Jodi (A)             East Wenatchee      208-610-1243   Wurlitzer           Spinet    
+63   Takasugi, Doug & Jan (A)      East Wenatchee      509-662-0191   Kawai               Grand     
+680  Taylor, Tiffany (A)           Wenatchee           509-630-6006   Kranich & Bach      Grand     
+381  Tedrow, Marjorie (A)          Leavenworth         206-920-1011   Kawai               Upright   
+147  The church in Ephrata, Terry  Ephrata             509-398-1679   Howard / Hamilton   Uprights  
+629  Thomas, Jacqueline (A)        Malaga              509-886-9355   Miki Gakki          Upright   
+182  Thomas, Keith & Terry (A)     Puyallup            253-770-6635   Yamaha              Console   
+857  Thompson, Mark (A)            Waterville          509-745-8384   Gulbransen          Console   
+888  Thompson, Sherry (A)          Leavenworth         360-383-0362   H. Herbert          Upright   
+486  Thysell, John & Marilyn (A)   East Wenatchee      509-884-3730   Yamaha              Console   
+886  Tildio Winery, Kate Perry (A) Peshastin           509-687-8463   Sohmer              Upright   
+633  Tildio Winery, Katy Perry (A) Chelan              509-687-8463   Sohmer              Upright   
+600  Tollefson, Virgil (A)         Leavenworth         206-799-5721   Steinway            Upright   
+865  Tonseth, Heide (A)            Waterville          509-860-4854   Hammond             Spinet    
+386  Tonte, Kayla (A)              Wenatchee           509-881-8343   Wurlitzer           Upright   
+796  Toth, Connie (A)              Wenatchee           509-860-9065   Yamaha              Upright   
+768  Trautman, Liz (A)             Moses Lake          509-750-0793   Schulz              Upright   
+973  Trautman, Micah & Kim (A)     Moses Lake          509-764-4613   Wurlitzer           Console   
+974  Trautman, Roberta (A)         Moses Lake          509-765-9361   Schumann            Upright   
+191  Travers, Kerry (A)            Chelan              509-682-8475   Young Chang / Yamaha / WurlitzerGrand / Grand / Spinet
+941  Trumbull, Kathryn (A)         Moses Lake          509-431-0925   Hungtington         Upright   
+460  Tucker, Melanie (A)           Wenatchee           509-393-2128   Boston              Grand     
+232  Tucker, Tim & Katie (A)       East Wenatchee      509-470-6989   Everett             Console   
+838  Tudor, Scott (A)              Entiat              509-470-0341   Suzuki              Grand     
+464  Ulloa, Edwin (A)              Moses Lake          509-855-8548   Wurlitzer           Spinet    
+415  United Lutheran Church, Jane  Waterville          509-745-8655   Knabe               Grand     
+105  United Methodist Church, Tres Ephrata             509-754-4664   Boston / Wurlitzer / BaldwinGrand / Console / Spinet
+814  Upper Valley Museum, Ann (A)  Leavenworth         509-548-0728   Heller & Co.        Spinet    
+692  Valaas, Peter & Susan (A)     Wenatchee           509-663-8014   Samick              Upright   
+114  Vale Elementary School, Krist Cashmere            509-782-2211   Kawai               Studio    
+24   Valley Christian Center, Paul Wenatchee           630-7744       Yamaha /            Console   
+210  Valley View 7th Day, Cheryl S East Wenatchee      509-884-3815   Kawai / Richmond / Story & Clark / Baldwin / Andrew KohlerGrand / Upright / Console / Spinet / Upright
+825  Van Dyke, Bonnie (A)          Quincy              509-787-3124   Mendlessohn         Spinet    
+176  Van Dyke, Lori (A)            Quincy              509-787-0045   Yamaha              Upright   
+977  VanDyke, Holly (A)            Quincy              509-237-1927   Mendlessohn         Spinet    
+85   Varpness, Jameson (A)         Wenatchee           402-840-3172   Pramberger          Grand     
+580  Vegdahl, Rolf (A)             Chelan              509-888-8119   Yamaha              Console   
+50   Vibbert, Todd & Meaghen (A)   East Wenatchee      509-886-5930   Sojin               Grand     
+262  Village Voices, Larry Henders Leavenworth         509-548-3506   Kimball             Console   
+615  Villamil, Jorge (A)           Wenatchee           360-306-7349   Kimball             Spinet    
+212  Vincent, Marianne (A)         Leavenworth         509-548-5743   Gulbransen / BaldwinGrand / Studio
+808  Visser, Gary & Linda (A)      East Wenatchee      509-679-1350   Yamaha              Upright   
+871  Vo, Andy (A)                  Edmonds             425-743-4066   Steinway            Grand     
+885  Volkman, Sue (A)              Wenatchee           509-664-6652                                 
+614  Vollmer, Cory & Trena (A)     Wenatchee           509-470-6470   Story & Clark       Console   
+940  Von Bracht, Will & Rose (A)   Othello             509-221-9146   Young Chang         Console   
+235  Von Reis, Charles & Martha (A Wenatchee           503-935-9860   Walter              Studio    
+260  Vordahl, Vaughn & Bonnie (A)  Quincy              509-787-5221   Wurlitzer           Grand     
+145  Voth, Margaret (A)            Wenatchee           509-293-2358   Yamaha              Studio    
+507  Wagner, Eloise (A)            Lake Wenatchee      425-677-4187   Samick              Console   
+417  Wagner, John & Susan (A)      Leavenworth         509-548-7324   Eilers              Upright   
+390  Walk, Carole Lee (A)          East Wenatchee      509-886-4407   Wurlitzer           Spinet    
+937  Wall, Jim & Judy (A)          Peshastin           509-687-3245   Yamaha              Grand     
+274  Wall, John & Kristin (A)      Pateros             509-860-3513   Kawai/Steinway      Upright/Grand
+904  Walter Transport, Arial / Hop Wenatchee           574-674-6139                                 
+453  Wanless, Mike & Sharon (A)    Chelan              509-470-4558   Pearl River         Grand     
+840  Wannschaff, Dianne (A)        Cashmere            509-782-5180   Kimball             Studio    
+557  Ward, Peter (A)               Wenatchee           509-264-8281   Steinway            Grand     
+60   Wardell, Curt & Carol (A)     East Wenatchee      509-669-2116   Pease               Upright   
+201  Ware, Ali (A)                 Wenatchee           509-470-0670   Baldwin /           Spinet    
+598  Warner, Steve & Donna (A)     Moses Lake          509-750-0736   Steinway            Grand     
+862  Waterud, Vern & Linda (A)     East Wenatchee      509-860-7693   Wurlitzer           Spinet    
+867  Waterville High School, Brian Waterville          509-745-8583   Baldwin / Smith BarnesStudio / Upright
+758  Watson, Roger (A)             Chelan              509-910-7500   Knabe               Grand     
+198  Weaver, Jud & Muriel (A)      Ellensburg          509-925-9297   Yamaha              Upright   
+128  Webb, Kristina (A)            Wenatchee           480-334-8011   Kawai               Grand     
+542  Weist, Sharon (A)             Wenatchee           509-741-7265   Kawai               Studio    
+721  Wells, Monita (A)             East Wenatchee      509-884-5313   Wellington          Upright   
+623  Wenatchee High School, James  Wenatchee           509-663-8117   Steinway on Stage/C.C.A.Grand     
+959  West, Cary & Liz (A)          Moses Lake          509-989-1475   Baldwin             Spinet    
+412  West, Harriet (A)             Moses Lake          509-765-6585   Steinway / Baldwin  Grand/ Spinet
+208  Westlund, Josh (A)            Wenatchee           425-466-9502   Baldwin / Haddorff  Spinet in a Console case / Grand
+283  Westwood, Ed & Lois (A)       Moses Lake          509-762-6144   Gulbransen          Spinet    
+572  Whitaker, Louetta (A)         Warden              509-750-1659   Gulbransen          Upright   
+409  White, Kristie (A)            Wenatchee           509-630-6467   H.M. Cable          Console   
+806  Whitman, Dave (A)             Wenatchee           509-881-1722   Beckwith            Console   
+850  Whitman, Judy (A)             Cashmere            509-393-2998   Ivers & Pond/Young ChangSpinet/Studio
+510  Whitson, Rachel (A)           Monitor             509-885-6917   Kawai               Upright   
+134  Wiggum, Lauren (A)            Wenatchee           509-630-6799   Kawai               Console   
+611  Wiley, Diana (A)              East Wenatchee      509-264-1115   Yamaha              Grand     
+301  Wilgus, Brian & Emily (A)     Wenatchee           509-630-6375   Gulbransen          Spinet    
+462  Wilkinson, Dan & Becki (A)    Leavenworth         509-548-7543   Baldwin             Grand     
+131  Willey, Vanessa (A)           Chelan              406-890-3286   Wurlitzer           Spinet    
+211  Williams, Amy (A)             East Wenatchee      509-670-9639   Gulbransen          Spinet    
+909  Williams, Barbara (A)         Ephrata             253-320-8677   Baldwin             Spinet    
+72   Williams, Herman & Carol (A)  Moses Lake          509-431-8797   Baldwin             Spinet    
+760  Williams, Paul (A)            Cashmere            509-679-2100   Knabe               Grand     
+360  Williams, Rich & Alycia (A)   Cashmere            509-670-0922   Aeolian             Studio    
+734  Wilsey, John & Patty (A)      Chelan              509-123-4568   Yamaha              Console   
+305  Wilson, Jimmi (A)             Wenatchee           509-669-2382   Yamaha              Console   
+683  Wilson, Julie (A)             Wenatchee           509-885-2354   Baldwin             Spinet    
+240  Wilson, Linda (A)             Manson              509-687-5073   Steinway            Grand     
+81   Wilson, Mark (A)              Moses Lake          509-630-8999   Bush & Lane         Upright   
+300  Winders, Richard (A)          Leavenworth         509-548-5911   Wurlitzer           Spinet    
+304  Winegar, Greg & Patti (A)     Wenatchee           509-470-6832   Kawai               Grand     
+289  Winters, Kathy (A)            Wenatchee           509-662-3123   Samick              Console   
+291  Womack, Ed & Allison (A)      Wenatchee           509-664-3800   Estonia             Grand     
+933  Woo, Kim (A)                  Mercer Island       206-851-1923   Young Chang         Grand     
+931  Wood, Nick & Kira (A)         Cashmere            425-319-0950   Fischer             Grand     
+793  Woodruff, Inez (A)            Moses Lake          509-764-1878   Baldwin             Spinet    
+468  Woodward, Mo (A)              Wenatchee           509-860-1404   Yamaha              Grand     
+281  Work, Linda (A)               Sammamish           206-948-9457   Knabe               Console   
+137  Work, Sam (A)                 Snoqualmie          206-755-8070   Steinway            Grand     
+442  Worth, Lola (A)               Pateros             509-923-2811   Story & Clark       Console   
+70   Wright, Andrea (A)            Wenatchee           516-615-8463   Mendelssohn         Console   
+624  Wright, Gordon & Krista (A)   Brewster            509-449-3359   Kimball             Studio    
+584  Wu, Solomon & Kazuko (A)      Moses Lake          509-350-9315   Kawai               Console   
+919  Wundrum, Ed (A)               Spokane             312-907-1237   Knabe               Grand     
+663  Wyse, Marilyn (A)             East Wenatchee      509-884-6366   Sojin               Grand     
+784  Yamane, Cheryl (A)            Warden              509-750-0088   Yamaha              Studio    
+562  Yonko, Darell (A)             East Wenatchee      509-421-0746   Baldwin             Studio    
+107  York, Rodger & Marna (A)      Desert Aire         509-932-4656   Yamaha              Console   
+565  Young, Bob & Roseanne (A)     Chelan              509-679-3643   Kimball             Console   
+496  Yow, Mary (A)                 Wenatchee           509-699-1870   Bond                Upright   
+549  YWCA, Susan Thornsberry (A)   Wenatchee           509-741-3333   Sojin               Grand     
+956  Zamora, Teka (A)              Wenatchee           509-669-9771   Kawai               Studio    
+831  Zanol, Jackie (A)             Wenatchee           509-662-7130                                 
+912  Zanol, Zachary & Angela (A)   Wenatchee           425-737-7876   Wurlitzer           Spinet    
+440  Zook, Mark & Rosemary (A)     East Wenatchee      509-470-6927   Chickering          Grand     

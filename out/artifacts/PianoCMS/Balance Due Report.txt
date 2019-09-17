@@ -1,0 +1,8 @@
+Customer Name          Phone Nbr                Amount Due  Service Date
+
+Henderson, Larry    509-860-0864
+	Delivered piano /                          1172.72  07/02/2018
+Valley Christian Center,     630-7744
+	Tuning                                      120.00  08/03/2018
+                              ----------------------------
+                                    Total Due:     1292.72

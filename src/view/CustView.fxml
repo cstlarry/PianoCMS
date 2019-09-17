@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.collections.FXCollections?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.String?>
+<AnchorPane prefHeight="650.0" prefWidth="850.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="CustomerController">
+    <Button fx:id="searchCustBtn" layoutX="380.0" layoutY="100.0" mnemonicParsing="false" onAction="#searchCustomer"
+            prefHeight="31.0" prefWidth="89.0" text="ID Search">
+        <font>
+            <Font name="System Bold" size="14.0"/>
+        </font>
+    </Button>
+    <Button fx:id="searchCustomersBtn" layoutX="407.0" layoutY="178.0" mnemonicParsing="false"
+            onAction="#searchCustomers" prefHeight="31.0" prefWidth="212.0" text="Search All Customers">
+        <font>
+         <Font name="System Bold" size="15.0"/>
+        </font>
+    </Button>
+
+    <TableView fx:id="customerTable" editable="true" layoutX="33.0" layoutY="235.0" onKeyPressed="#handleKeyEvent"
+               prefHeight="350.0" prefWidth="930.0" tableMenuButtonVisible="true">
+        <columns>
+            <TableColumn fx:id="customerDBNumColumn" prefWidth="61.00001525878906" text="Id"/>
+            <TableColumn fx:id="lastNameColumn" prefWidth="227.0" text="Last Name"/>
+            <TableColumn fx:id="firstNameColumn" prefWidth="151.0" text="First Name"/>
+            <TableColumn fx:id="cityColumn" prefWidth="159.0" text="City"/>
+            <TableColumn fx:id="phoneColumn" prefWidth="156.0" text="Phone"/>
+            <TableColumn fx:id="lastServiceDateColumn" prefWidth="164.0" text="Last Service"/>
+        </columns>
+    </TableView>
+    <GridPane layoutX="36.0" layoutY="20.0" prefHeight="137.0" prefWidth="300.0">
+        <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="95.0" minWidth="10.0" prefWidth="88.0"/>
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="183.0" minWidth="10.0" prefWidth="183.0"/>
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="95.0" minWidth="10.0" prefWidth="29.0"/>
+        </columnConstraints>
+        <rowConstraints>
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES"/>
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES"/>
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES"/>
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES"/>
+        </rowConstraints>
+        <Button fx:id="searchLast" mnemonicParsing="false" onAction="#searchCustomersByLastName" text="S"
+                GridPane.columnIndex="2"/>
+        <Button fx:id="searchFirst" mnemonicParsing="false" onAction="#searchCustomersByFirstName" text="S"
+                GridPane.columnIndex="2" GridPane.rowIndex="1"/>
+        <Button fx:id="searchPhone" mnemonicParsing="false" onAction="#searchCustomersByPhone" text="S"
+                GridPane.columnIndex="2" GridPane.rowIndex="2"/>
+        <Button fx:id="searchCity" mnemonicParsing="false" onAction="#searchCustomersByCity" text="S"
+                GridPane.columnIndex="2" GridPane.rowIndex="3"/>
+        <Label text="Last Name" textAlignment="RIGHT">
+            <font>
+                <Font name="System Bold" size="15.0"/>
+            </font>
+        </Label>
+        <Label text="First Name" textAlignment="RIGHT" GridPane.rowIndex="1">
+            <font>
+                <Font name="System Bold" size="15.0"/>
+            </font>
+        </Label>
+        <Label text="Phone" textAlignment="RIGHT" GridPane.rowIndex="2">
+            <font>
+                <Font name="System Bold" size="15.0"/>
+            </font>
+        </Label>
+        <Label alignment="CENTER" text="City" GridPane.rowIndex="3">
+            <font>
+                <Font name="System Bold" size="15.0"/>
+            </font>
+        </Label>
+        <TextField fx:id="lastNameText" onAction="#searchCustomersByLastName" GridPane.columnIndex="1"/>
+        <TextField fx:id="firstNameText" onAction="#searchCustomersByFirstName" GridPane.columnIndex="1"
+                   GridPane.rowIndex="1"/>
+        <TextField fx:id="phoneText" onAction="#searchCustomersByPhone" GridPane.columnIndex="1"
+                   GridPane.rowIndex="2"/>
+        <ComboBox id="addNewButton" fx:id="pickCity" onHiding="#handleOnHiding" onKeyPressed="#handleOnKeyPressed"
+                  prefHeight="31.0" prefWidth="202.0" GridPane.columnIndex="1" GridPane.rowIndex="3">
+            <items>
+                <FXCollections fx:factory="observableArrayList">
+                    <String fx:value="Item 1"/>
+                    <String fx:value="Item 2"/>
+                    <String fx:value="Item 3"/>
+                </FXCollections>
+            </items>
+        </ComboBox>
+    </GridPane>
+    <Button fx:id="addNewBtn" layoutX="190.0" layoutY="178.0" mnemonicParsing="false" onAction="#insertCustomer"
+            prefHeight="31.0" prefWidth="203.0" text="Add New Customer">
+        <font>
+            <Font name="System Bold" size="15.0"/>
+        </font>
+    </Button>
+    <Button layoutX="36.0" layoutY="178.0" mnemonicParsing="false" onAction="#clearFields" prefHeight="31.0"
+            prefWidth="143.0" text="Clear Fields">
+        <font>
+          <Font name="System Bold" size="15.0"/>
+        </font>
+    </Button>
+    <Label layoutX="494.0" layoutY="28.0" text="Piano">
+        <font>
+          <Font name="System Bold" size="14.0"/>
+        </font>
+    </Label>
+    <TextField fx:id="customerDBNumText" layoutX="380.0" layoutY="56.0" onAction="#searchCustomer" prefHeight="31.0"
+               prefWidth="89.0"/>
+    <Label layoutX="380.0" layoutY="23.0" prefHeight="31.0" prefWidth="107.0" text="Customer ID">
+        <font>
+            <Font name="System Bold" size="14.0"/>
+        </font>
+    </Label>
+    <TextField fx:id="pianoSearch" layoutX="494.0" layoutY="56.0" onAction="#searchByPiano" prefHeight="39.0"
+               prefWidth="128.0"/>
+    <Button fx:id="pianoSearchBtn" layoutX="494.0" layoutY="100.0" mnemonicParsing="false" onAction="#searchByPiano"
+            text="Search Piano">
+        <font>
+          <Font name="System Bold" size="14.0"/>
+        </font>
+    </Button>
+    <Label fx:id="filterLabel" layoutX="70.0" layoutY="147.0" prefHeight="21.0" prefWidth="38.0"/>
+    <Label layoutX="756.0" layoutY="28.0" text="Street">
+        <font>
+          <Font name="System Bold" size="14.0"/>
+        </font>
+    </Label>
+    <TextField fx:id="streetSearch" layoutX="756.0" layoutY="56.0" prefHeight="39.0" prefWidth="197.0"/>
+    <Button fx:id="streetSearchBtn" layoutX="756.0" layoutY="100.0" mnemonicParsing="false" onAction="#searchByStreet"
+            text="Search Street">
+        <font>
+          <Font name="System Bold" size="14.0"/>
+        </font>
+    </Button>
+    <Label layoutX="633.0" layoutY="28.0" text="Status">
+        <font>
+          <Font name="System Bold" size="14.0"/>
+        </font>
+    </Label>
+    <TextField fx:id="statusSearch" layoutX="633.0" layoutY="56.0" prefHeight="39.0" prefWidth="107.0"/>
+    <Button fx:id="statusSearchBtn" layoutX="633.0" layoutY="100.0" mnemonicParsing="false" onAction="#searchByStatus"
+            text="Search Status">
+        <font>
+          <Font name="System Bold" size="14.0"/>
+        </font>
+    </Button>
+</AnchorPane>

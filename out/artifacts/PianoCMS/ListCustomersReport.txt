@@ -1,0 +1,9 @@
+ID   Name                          City                Phone Nbr      Other Phone    
+
+25   Cummings, Celia               Wenatchee           509-860-0628                  
+30   Henderson, Larry              Wenatchee           509-860-0864                  
+32   Henderson, Renee              Wenatchee           509-393-9622                  
+29   Macphee, Brook                Wenatchee           509-860-0844                  
+26   Mullene, Joan                 Wenatchee           509-860-2570                  
+28   Swanson, Rebecca              Wenatchee           612-770-4956                  
+24   Valley Christian Center,      Wenatchee           630-7744                      

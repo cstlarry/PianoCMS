@@ -1,0 +1,34 @@
+First Name          Last Name                 Phone Nbr   Service Date  Work
+
+Mark                Wilson                 509-630-8999     09/10/2018  Tune
+Kiamay              Jackson                509-855-8187     09/10/2018  Tune
+Jeanne              Ekvall                 509-689-9660     09/11/2018  Pitc
+Joel & Celia        Cummings               509-860-0628     10/21/2018  Regu
+Gail                Shaw                   425-359-6311     09/11/2018  Tune
+                    Lake Chelan Lut        509-682-9063     09/11/2018  Tune
+Kristin Keene       Vale Elementary        509-782-2211     09/11/2018  Tune
+Russ & Cathy        Faw                    509-797-3707     09/12/2018  Tune
+Skip & Sue          McCance                509-760-8363     09/12/2018  Tune
+Jovi                Barrows                509-415-5733     09/12/2018  Tune
+Michael             Dobbins                509-714-9419     09/13/2018  Rais
+Walt Ness           Community Conce        509-670-8668     09/13/2018  Tune
+Lesley              Allan                  509-679-7426     09/14/2018  Tune
+Lee & Loretta       Coonfield              509-421-1445     09/14/2018  Tune
+Anne Conrad         Icicle River Mi        509-548-4042     09/17/2018  Tune
+James Mitsuyasu     Cascade High Sc        509-548-5277     09/17/2018  Tune
+Leon & Tana         Johnson                253-848-0543     09/18/2018  Tune
+Caleb & Jonette     Bryant                 503-442-6203     09/18/2018  Rais
+Don & Elaine        Fresen                 206-940-1005     09/18/2018  Tune
+Kristin             Mead                   509-398-5071     09/19/2018  Pitc
+Don & Jill          Mead                   509-787-2508     09/19/2018  Tune
+James & Rochelle    Getzinger              509-989-9464     09/19/2018  Tune
+Kristina            Webb                   480-334-8011     09/20/2018  Tune
+Jeanette            Leon                   509-741-7193     09/20/2018  Tune
+Eric/Kingfisher     Sleeping Lady          509-888-9894     09/20/2018  Tune
+Jeanne              Ekvall                 509-689-9660     09/21/2018  Tune
+Vanessa             Willey                 406-890-3286     09/21/2018  Pitc
+Betty Simon         Bible Missionar        509-856-4407     09/10/2018  Pitc
+Laury               Chandler               509-989-2631     09/10/2018  Tune
+Keith & Mary        Kuechmann              509-662-5943     09/03/2018  Tune
+Lori                Van Dyke               509-787-0045     09/07/2017  Tune
+Jerry & Rebecca     Bassett                509-293-1857     09/27/2018  Tune

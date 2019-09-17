@@ -1,0 +1,39 @@
+QUARTERLY TAX REPORT for quarter ending 07/31/2018
+
+    CustID   Service Inc   Taxable Inc       Tax   TaxCode  Remarks                       
+        26        100.00          0.00      0.00       405                                
+        37        100.00          0.00      0.00       405  Baldwin                       
+        21        120.00          0.00      0.00       902                                
+        27        100.00          0.00      0.00       902                                
+        90        120.00          0.00      0.00       405  Yamaha                        
+        38         50.00          0.00      0.00       405  Ivers & Pond                  
+        36        120.00          0.00      0.00       405  Tuned Gulbransen              
+        35        120.00          0.00      0.00       902  Tuned Kawai                   
+        34        120.00          0.00      0.00       405  First Warranty Tuning Yamaha  
+        39        150.00          0.00      0.00      1309  Steck                         
+        40        120.00          0.00      0.00       401  Baldwin                       
+        41        100.00          0.00      0.00       902  Baldwin                       
+        42        120.00          0.00      0.00      1311  Yamaha                        
+        43        100.00          0.00      0.00      1311  Wurlitzer                     
+        44        120.00          0.00      0.00      1309  Yamaha                        
+        45        525.00          0.00      0.00       405  Pease                         
+        37        180.00          0.00      0.00       405                                
+        46        220.00          0.00      0.00       902  Estey - Behr Bro.             
+        47        120.00          0.00      0.00       405  Sojin                         
+        48        120.00          0.00      0.00       902  Kawai/Steinway                
+        49        125.00          0.00      0.00       404  Kimball                       
+        41        120.00          0.00      0.00       902  Baldwin                       
+        91        120.00          0.00      0.00       405  Cable-Nelson                  
+        92        120.00          0.00      0.00      1302  Samick                        
+        93        120.00          0.00      0.00       405  Brambach                      
+        94        120.00          0.00      0.00       402  Yamaha                        
+       463          0.00       3850.00    304.15      1313  H.M. Cable/Yamaha             
+       454        120.00          0.00      0.00      1310  Chickering                    
+       460        120.00          0.00      0.00       405  Boston                        
+        65        120.00          0.00      0.00       405  Kawai                         
+        ----------------------------------------
+                 3910.00       3850.00    304.15
+
+TaxCode Totals Summary
+   TaxCode     Total
+      1313    304.15

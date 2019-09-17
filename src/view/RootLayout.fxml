@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="650.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="RootLayoutController">
+   <top>
+       <MenuBar BorderPane.alignment="CENTER">
+           <Menu mnemonicParsing="false" text="File">
+               <MenuItem mnemonicParsing="false" onAction="#showTaxRateView" text="Edit State Tax Records"/>
+               <MenuItem mnemonicParsing="false" onAction="#chooseFileListener" text="Open Text File"/>
+               <MenuItem mnemonicParsing="false" onAction="#handleExit" text="Close"/>
+           </Menu>
+           <Menu mnemonicParsing="false" text="Reports">
+               <MenuItem mnemonicParsing="false" onAction="#listCustomersReport" text="List Customers Report"/>
+               <MenuItem fx:id="taxReport" mnemonicParsing="false" onAction="#taxReport"
+                         text="Quarterly Tax Report"/>
+               <MenuItem mnemonicParsing="false" onAction="#callBackReport" text="Call Back Report"/>
+               <MenuItem fx:id="balanceDueReport" mnemonicParsing="false" onAction="#getBalanceReport"
+                         text="Balance Due Report"/>
+               <MenuItem mnemonicParsing="false" onAction="#taxRateListReport" text="Tax Rate List Report"/>
+               <MenuItem mnemonicParsing="false" onAction="#statusReport" text="Status Report"/>
+               <MenuItem mnemonicParsing="false" onAction="#updateStatusReport" text="Update Status Report"/>
+           </Menu>
+           <Menu mnemonicParsing="false" text="Maintenance">
+               <MenuItem mnemonicParsing="false" onAction="#dumpDB" text="Baclup Data Files"/>
+           </Menu>
+           <Menu mnemonicParsing="false" text="Help">
+               <MenuItem mnemonicParsing="false" onAction="#handleHelp" text="About"/>
+               <MenuItem mnemonicParsing="false" onAction="#displayWebPage" text="Google"/>
+           </Menu>
+       </MenuBar>
+   </top>
+</BorderPane>

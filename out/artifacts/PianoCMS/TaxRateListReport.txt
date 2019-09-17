@@ -1,0 +1,129 @@
+City                  Code       Zip    Rate
+
+Aberdeen              1401     98520   0.089
+Alderwood Manor       3100     98036   0.091
+Almira                2201     99103   0.080
+Auburn                1702     98002   0.100
+Bainbridge Island     1804     98110   0.090
+Bellevue              1704     98005   0.100
+Bellingham            3701     98226   0.087
+Beverly                100     99321   0.077
+Black Dimond          1705     98010   0.086
+Bonney Lake           2701             0.093
+Bothell               1706     98012   0.100
+Bremerton             1801     98310   0.090
+Brewster              2401     98812   0.082
+Bridgeport             901     98813   0.077
+Brier                 3102     98036   0.103
+Buckley               2702     98321   0.079
+Carlton               2400     98814   0.078
+Cashmere               401     98815   0.082
+Centralia             2101             0.082
+Chelan                 402     98816   0.082
+Cheney                3202     99004   0.088
+Clarkston              202             0.079
+Cle Elum              1901     98922   0.080
+Conconully            2402             0.082
+Coulee City           1301     99115   0.079
+Coulee Dam            2403     99116   0.078
+Creston               2202     99117   0.080
+Des Moines            1709     98198   0.100
+Desert Aire           1300     99349   0.079
+Dupont                2704             0.093
+East Wenatchee         902     98802   0.082
+Edmonds               3104     98020   0.103
+Ellensburg            1902     98926   0.083
+Elmer City            2404     99124   0.078
+Entiat                 403     98822   0.082
+Enumclaw              1711     98022   0.087
+Ephrata               1302     98823   0.079
+Everett               3105             0.097
+Federal Way           1732             0.100
+Ferndale              3704     98248   0.087
+Fife                  2706     98424   0.099
+Garfield              3806             0.078
+George                1304     98824   0.079
+Gig Harbor            2708             0.085
+Gold Bar              3106     98251   0.089
+Goldendale            2002             0.075
+Graham                2700     98338   0.093
+Grand Coulee          1305     99133   0.081
+Granite Falls         3107     98252   0.089
+Hartline              1306     99135   0.079
+Kelso                  803             0.081
+Kent                  1715             0.100
+La Crosse             3807             0.078
+Lacey                 3402             0.089
+Lake Forest park      1717             0.100
+Lake Stevens          3109             0.089
+Lake Wenatchee         400     98826   0.080
+Lakewood              2721     98439   0.099
+Lamont                3808             0.078
+Langley               1502             0.087
+Leavenworth            404     98826   0.084
+Lind                   102     99341   0.077
+Longview               804             0.081
+Lynden                3705             0.087
+Mansfield              903     98830   0.077
+Maple Valley          1720     98038   0.086
+Marysville            3111             0.091
+Mattawa               1308     99349   0.081
+Medina                1718     98039   0.100
+Milton                2709             0.099
+Monroe                3112     98272   0.092
+Moses Lake            1309     98837   0.081
+Mountlake Terrace     3113     98043   0.103
+Mukilteo              3114             0.104
+Nespelem              2405     99155   0.078
+Normandy Park         1721             0.100
+North Bend            1722     98045   0.089
+Okanogan              2406     98840   0.083
+Omak                  2407     98841   0.082
+Oroville              2408             0.082
+Orting                2710     98398   0.093
+Othello                103     99344   0.079
+Palouse               3811             0.078
+Pateros               2409     98846   0.082
+Pomeroy               1201             0.079
+Port Angeles           502             0.087
+Port Orchard          1802             0.090
+Poulsbo               1803             0.090
+Puyallup              2711             0.099
+Quincy                1310     98848   0.079
+Rainier               3404             0.079
+Raymond               2503             0.081
+Redmond               1724             0.100
+Renton                1725             0.100
+Ritzville              104     99169   0.077
+Riverside             2410             0.082
+Rock Island            904     98850   0.082
+Royal City            1311     99357   0.079
+Seatac                1733             0.100
+Seattle               1726             0.101
+Shelton               2301             0.088
+Shoreline             1737             0.100
+Snohomish             3115     98290   0.091
+Snoqualmie            1728     98065   0.086
+Soap Lake             1312     98851   0.079
+South Bend            2504             0.081
+Spokane               3210             0.088
+Stanwood              3116             0.091
+Steilacoom            2715             0.099
+Stevenson             3002             0.077
+Sultan                3117     98294   0.089
+Sumner                2716             0.093
+Tacoma                2717             0.101
+Tonasket              2411     98855   0.083
+Tukwila               1729             0.100
+Twisp                 2412     98856   0.085
+Vancouver              605             0.084
+Walla Walla           3604     99362   0.089
+Warden                1313     98857   0.079
+Washougal              606             0.084
+Washtucna              105             0.077
+Waterville             905     98858   0.082
+Wenatchee              405     98801   0.084
+Wilbur                2208     99185   0.080
+Wilson Creek          1315     98860   0.079
+Winthrop              2413     98862   0.083
+Yakima                3913             0.082

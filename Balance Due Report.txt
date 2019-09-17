@@ -1,0 +1,8 @@
+Customer Name          Phone Nbr                Amount Due  Service Date
+
+Boyce, Mariann      509-393-0294
+	Delivered a piano she bought from me       1172.72  2018-07-02
+Valley Christian Center,     630-7744
+	Tuning                                      120.00  2018-08-03
+                              ----------------------------
+                                    Total Due:     1292.72
