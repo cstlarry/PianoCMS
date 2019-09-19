@@ -10,87 +10,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dbe89f1-8243-43f9-bcb0-85bac159031f" name="Default Changelist" comment="Second commit">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/PianoCMS.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_39_bin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Balance Due Report.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CallBackReport.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Customer Status Report.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListCustomersReport.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PianoCMS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QTaxReport.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TaxRateListReport.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fileName" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/PianoCMS/Balance Due Report.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/PianoCMS/CallBackReport.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/PianoCMS/Customer Status Report.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/PianoCMS/ListCustomersReport.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/PianoCMS/PianoCMS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/PianoCMS/PianoCMS.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/PianoCMS/PianoCMS.jnlp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/PianoCMS/TaxRateListReport.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/PianoCMS/mysql-connector-java-5.1.39-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/BalanceDueReport.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/CallBackReport.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/CustomerController$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/CustomerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/CustomerDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/DBUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/DetailsController$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/DetailsController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/FXTemplate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/ListCustomersReport.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/ProjectUI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/QuarterlyTaxReport.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/RootLayoutController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/Service.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/ServiceDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/StatusReport.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/TaxRate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/TaxRateController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/TaxRateDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/TaxRateListReport.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/customer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/view/CustView.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/view/RootLayout.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/view/ServiceView.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PianoCMS/view/TaxRateView.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BalanceDueReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CallBackReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CustomerDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DBUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DetailsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FXTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListCustomersReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjectUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuarterlyTaxReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RootLayoutController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ServiceDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StatusReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TaxRate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TaxRateController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TaxRateDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TaxRateListReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UpdateStatusReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/customer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/CustView.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/RootLayout.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/ServiceView.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/TaxRateView.fxml" afterDir="false" />
+    <list default="true" id="9dbe89f1-8243-43f9-bcb0-85bac159031f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -148,7 +69,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552066990446" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -444,6 +365,9 @@
       <workItem from="1568511151464" duration="64000" />
       <workItem from="1568529037277" duration="471000" />
       <workItem from="1568587288820" duration="4014000" />
+      <workItem from="1568756469510" duration="203000" />
+      <workItem from="1568918172293" duration="454000" />
+      <workItem from="1568924046760" duration="254000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1567637732433</created>
@@ -452,7 +376,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567637732433</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second commit">
+      <created>1568756559158</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568756559158</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
