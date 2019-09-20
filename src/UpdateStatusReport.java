@@ -55,14 +55,8 @@ public class UpdateStatusReport extends Application {
         clearFieldsBtn.setDisable(ui.getRows() == 0);
 
         // set up action listeners
-        clearOutputBtn.setOnAction(
-                e -> {
-                    clearOutput();
-                });
-        clearFieldsBtn.setOnAction(
-                e -> {
-                    ui.clearFields();
-                });
+        clearOutputBtn.setOnAction(e -> clearOutput());
+        clearFieldsBtn.setOnAction(e -> ui.clearFields());
         printBtn.setOnAction(
                 e -> {
                     content.putString(display.getText());
