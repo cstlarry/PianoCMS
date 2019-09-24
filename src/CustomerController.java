@@ -296,6 +296,7 @@ public class CustomerController implements Serializable {
                 final KeyCombination keyP = new KeyCodeCombination(KeyCode.P, KeyCombination.CONTROL_DOWN);
                 final KeyCombination keyG = new KeyCodeCombination(KeyCode.G, KeyCombination.CONTROL_DOWN);
                 final KeyCombination keyC = new KeyCodeCombination(KeyCode.C, KeyCombination.CONTROL_DOWN);
+                final KeyCombination keyW = new KeyCodeCombination(KeyCode.W, KeyCombination.CONTROL_DOWN);
 
                 public void handle(KeyEvent e) {
                          if (keyU.match(e)) dc.setSize("Upright");
@@ -303,6 +304,7 @@ public class CustomerController implements Serializable {
                     else if (keyS.match(e)) dc.setSize("Studio");
                     else if (keyP.match(e)) dc.setSize("Spinet");
                     else if (keyG.match(e)) dc.setSize("Grand");
+                    else if (keyW.match(e)) dc.setWorkFocus();
                 }
             });
             Stage stage = new Stage();

@@ -8,7 +8,7 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="PianoCMS.jar" size="133994" download="eager" />
+    <jar href="PianoCMS.jar" size="134316" download="eager" />
     <jar href="mysql-connector-java-5.1.39-bin.jar" size="989497" download="eager" />
   </resources>
   <jfx:javafx-desc  width="600" height="400" main-class="Main"  name="PianoCMS" />

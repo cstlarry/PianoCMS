@@ -1,3 +1,5 @@
+import com.sun.javafx.scene.control.behavior.TextAreaBehavior;
+import com.sun.javafx.scene.control.skin.TextAreaSkin;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.concurrent.Task;
@@ -163,6 +165,19 @@ public class DetailsController {
     private void initialize () {
         //For multithreading: Create executor that uses daemon threads:
         Arrays.sort(pianoList);
+        paymentNotes.addEventFilter(KeyEvent.KEY_PRESSED, (KeyEvent event) -> {
+            if (event.getCode() == KeyCode.TAB) {
+                event.consume();
+                serviceRemarks.requestFocus();
+            }
+        });
+
+        serviceRemarks.addEventFilter(KeyEvent.KEY_PRESSED, (KeyEvent event) -> {
+            if (event.getCode() == KeyCode.TAB) {
+                event.consume();
+                saveService.requestFocus();
+            }
+        });
 
         exec = Executors.newCachedThreadPool((runnable) -> {
             Thread t = new Thread (runnable);
@@ -437,7 +452,7 @@ public class DetailsController {
     }
 
     //Populate Services for TableView with MultiThreading
-    private void fillServiceTable(ActionEvent event) throws SQLException, ClassNotFoundException {
+    private void fillServiceTable(ActionEvent event) {
         Task<List<Service>> task = new Task<List<Service>>(){
             @Override
             public ObservableList<Service> call() throws Exception{
@@ -494,7 +509,7 @@ public class DetailsController {
 
     //Populate services for TableView
     @FXML
-    private void populateServices(ObservableList<Service> serviceData) throws ClassNotFoundException {
+    private void populateServices(ObservableList<Service> serviceData)  {
         serviceTable.setItems(serviceData);
         serviceTable.setRowFactory(
             tv -> {
@@ -590,9 +605,7 @@ public class DetailsController {
             return true;
         else if(!zip.getText().equals(c.getZipCode()))
             return true;
-        else if(!remarks.getText().equals(c.getRemarks()))
-            return true;
-        return false;
+        else return !remarks.getText().equals(c.getRemarks());
     }
 
     public boolean serviceChanged(Service s){
@@ -608,9 +621,7 @@ public class DetailsController {
             return true;
         else if(!serviceRemarks.getText().equals(s.getRemarks()))
             return true;
-        else if(serviceDate.getValue() != s.getServiceDate())
-            return true;
-        return false;
+        else return serviceDate.getValue() != s.getServiceDate();
     }
 
     //Help Menu button behavior
@@ -620,5 +631,9 @@ public class DetailsController {
         alert.setHeaderText("This is a JavaFX Application");
         alert.setContentText("You can search, delete, update, insert a new Customer with this program.");
         alert.show();
+    }
+
+    public void setWorkFocus() {
+        workDone.requestFocus();
     }
 } // end class

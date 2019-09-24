@@ -10,9 +10,16 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dbe89f1-8243-43f9-bcb0-85bac159031f" name="Default Changelist" comment="">
+    <list default="true" id="9dbe89f1-8243-43f9-bcb0-85bac159031f" name="Default Changelist" comment="5th commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UpdateStatusReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UpdateStatusReport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/PianoCMS/PianoCMS.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/PianoCMS/PianoCMS.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/PianoCMS/PianoCMS.jnlp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/PianoCMS/PianoCMS.jnlp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PianoCMS/CustomerController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PianoCMS/CustomerController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PianoCMS/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PianoCMS/CustomerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PianoCMS/DetailsController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PianoCMS/DetailsController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PianoCMS/DetailsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PianoCMS/DetailsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DetailsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DetailsController.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UpdateStatusReport">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ListCustomersReport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ListCustomersReport" />
       <module name="PianoCMS" />
@@ -166,8 +173,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UpdateStatusReport" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.UpdateStatusReport" />
         <item itemvalue="Application.ListCustomersReport" />
         <item itemvalue="Application.StatusReport" />
         <item itemvalue="JAR Application.PianoCMS.jar" />
@@ -372,7 +379,12 @@
       <workItem from="1568925490763" duration="327000" />
       <workItem from="1568932350875" duration="552000" />
       <workItem from="1568940264497" duration="1333000" />
-      <workItem from="1568941620878" duration="904000" />
+      <workItem from="1568941620878" duration="1326000" />
+      <workItem from="1569108613382" duration="363000" />
+      <workItem from="1569193223464" duration="2856000" />
+      <workItem from="1569347621242" duration="48000" />
+      <workItem from="1569347818469" duration="59000" />
+      <workItem from="1569347916869" duration="326000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1567637732433</created>
@@ -395,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568924490676</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="4th commit">
+      <created>1568943175107</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568943175107</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -418,7 +437,9 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Second commit" />
     <MESSAGE value="Third commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Third commit" />
+    <MESSAGE value="4th commit" />
+    <MESSAGE value="5th commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="5th commit" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
