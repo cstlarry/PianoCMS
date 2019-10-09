@@ -10,16 +10,17 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dbe89f1-8243-43f9-bcb0-85bac159031f" name="Default Changelist" comment="5th commit">
+    <list default="true" id="9dbe89f1-8243-43f9-bcb0-85bac159031f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/PianoCMS/PianoCMS.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/PianoCMS/PianoCMS.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/PianoCMS/PianoCMS.jnlp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/PianoCMS/PianoCMS.jnlp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PianoCMS/CustomerController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PianoCMS/CustomerController$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PianoCMS/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PianoCMS/CustomerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PianoCMS/CustomerDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PianoCMS/CustomerDAO.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PianoCMS/DetailsController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PianoCMS/DetailsController$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PianoCMS/DetailsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PianoCMS/DetailsController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PianoCMS/QuarterlyTaxReport.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PianoCMS/QuarterlyTaxReport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CustomerDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CustomerDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DetailsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DetailsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuarterlyTaxReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuarterlyTaxReport.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -384,7 +385,11 @@
       <workItem from="1569193223464" duration="2856000" />
       <workItem from="1569347621242" duration="48000" />
       <workItem from="1569347818469" duration="59000" />
-      <workItem from="1569347916869" duration="326000" />
+      <workItem from="1569347916869" duration="723000" />
+      <workItem from="1569717294755" duration="13000" />
+      <workItem from="1570294064465" duration="1193000" />
+      <workItem from="1570378725475" duration="212000" />
+      <workItem from="1570495960825" duration="130000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1567637732433</created>
@@ -414,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568943175107</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="5th commit">
+      <created>1569348308296</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569348308296</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

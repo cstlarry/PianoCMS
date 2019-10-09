@@ -156,7 +156,7 @@ public class CustomerDAO {
                 rs.getString(2),
                 rs.getString(3),
                 formatter.format(LocalDate.parse(String.valueOf(rs.getDate("servicedate")))),
-                rs.getString("workDone").substring(0, 4)
+                rs.getString("workDone").substring(0, 3)
             );
             list.add(record);
         }

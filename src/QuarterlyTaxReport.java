@@ -133,7 +133,7 @@ public class QuarterlyTaxReport extends Application {
 
         outputln(String.format("QUARTERLY TAX REPORT for quarter ending %s%n", formatter.format(end)));
 
-        outputln(String.format("%10s%14s%14s%10s%10s  %-30s", "CustID","Service Inc","Taxable Inc","Tax","TaxCode","Remarks"));
+        outputln(String.format("%10s%14s%14s%10s%10s", "CustID","Service Inc","Taxable Inc","Tax","TaxCode"));
         try {
             ArrayList<Service> taxList = ServiceDAO.getQuarterlyTaxes(start, end);
             for(Service s: taxList){
@@ -155,7 +155,7 @@ public class QuarterlyTaxReport extends Application {
                         codeTotals.put(taxCode, taxTotal);
                     }
                 }
-                outputln(String.format("%10d%14.2f%14.2f%10.2f%10s  %-30s", s.getCustomerDBNum(),serviceIncome, income, tax, taxCode, remarks));
+                outputln(String.format("%10d%14.2f%14.2f%10.2f%10s", s.getCustomerDBNum(),serviceIncome, income, tax, taxCode));
             }
             outputln(String.format("%48s%n%24.2f%14.2f%10.2f", "----------------------------------------",totalServiceIncome, totalIncome, totalTax));
 
